@@ -1,0 +1,451 @@
+Parent Name,Area Name,Sex,Time period,Value,Count,Compared to England value or percentiles,Compared to Region value or percentiles
+North East region,Hartlepool,Male,2017 - 19,19.5452331641516,24.0,Similar,Similar
+North East region,Middlesbrough,Male,2017 - 19,24.0556605730339,40.0,Worse,Similar
+North East region,Redcar and Cleveland,Male,2017 - 19,21.391856719266,36.0,Similar,Similar
+North East region,Stockton-on-Tees,Male,2017 - 19,14.6501083151601,37.0,Similar,Similar
+North East region,Darlington,Male,2017 - 19,22.1381582668824,30.0,Similar,Similar
+North West region,Halton,Male,2017 - 19,19.3244991804895,31.0,Similar,Similar
+North West region,Warrington,Male,2017 - 19,15.855088843811,45.0,Similar,Similar
+North West region,Blackburn with Darwen,Male,2017 - 19,10.7377202796796,21.0,Similar,Better
+North West region,Blackpool,Male,2017 - 19,25.638761864884,46.0,Worse,Worse
+Yorkshire and the Humber region,Kingston upon Hull,Male,2017 - 19,22.2996362965789,72.0,Worse,Similar
+Yorkshire and the Humber region,East Riding of Yorkshire,Male,2017 - 19,20.598417092461,89.0,Worse,Similar
+Yorkshire and the Humber region,North East Lincolnshire,Male,2017 - 19,18.4425909730409,37.0,Similar,Similar
+Yorkshire and the Humber region,North Lincolnshire,Male,2017 - 19,16.6059557645227,37.0,Similar,Similar
+Yorkshire and the Humber region,York,Male,2017 - 19,18.1862507763771,46.0,Similar,Similar
+East Midlands region,Derby,Male,2017 - 19,12.823279186766,41.0,Similar,Similar
+East Midlands region,Leicester,Male,2017 - 19,13.1744787051505,57.0,Similar,Similar
+East Midlands region,Rutland,Male,2017 - 19,,6.0,Not compared,Not compared
+East Midlands region,Nottingham,Male,2017 - 19,19.5667444668665,77.0,Similar,Worse
+West Midlands region,Herefordshire,Male,2017 - 19,17.514232523251,44.0,Similar,Similar
+West Midlands region,Telford and Wrekin,Male,2017 - 19,15.8318680718944,36.0,Similar,Similar
+West Midlands region,Stoke-on-Trent,Male,2017 - 19,20.6034635095168,66.0,Worse,Worse
+South West region,Bath and North East Somerset,Male,2017 - 19,17.7494380879512,42.0,Similar,Similar
+South West region,Bristol,Male,2017 - 19,18.1240969028344,106.0,Similar,Similar
+South West region,North Somerset,Male,2017 - 19,16.5139126986898,45.0,Similar,Similar
+South West region,South Gloucestershire,Male,2017 - 19,14.9741673591326,54.0,Similar,Similar
+South West region,Plymouth,Male,2017 - 19,17.8513934647967,63.0,Similar,Similar
+South West region,Torbay,Male,2017 - 19,27.2608342029198,45.0,Worse,Worse
+South West region,Swindon,Male,2017 - 19,11.1766658455985,33.0,Similar,Better
+East of England region,Peterborough,Male,2017 - 19,18.6347398164343,47.0,Similar,Similar
+East of England region,Luton,Male,2017 - 19,10.913461384891,27.0,Similar,Similar
+East of England region,Southend-on-Sea,Male,2017 - 19,20.7774579987186,48.0,Similar,Similar
+East of England region,Thurrock,Male,2017 - 19,7.81644986989383,18.0,Better,Better
+South East region,Medway,Male,2017 - 19,14.6258806253676,49.0,Similar,Similar
+South East region,Bracknell Forest,Male,2017 - 19,16.5630748841015,24.0,Similar,Similar
+South East region,West Berkshire,Male,2017 - 19,15.8259483165233,32.0,Similar,Similar
+South East region,Reading,Male,2017 - 19,13.832679261559,28.0,Similar,Similar
+South East region,Slough,Male,2017 - 19,16.0155167747261,28.0,Similar,Similar
+South East region,Windsor and Maidenhead,Male,2017 - 19,11.1081983263819,22.0,Similar,Similar
+South East region,Wokingham,Male,2017 - 19,11.0650867012113,23.0,Similar,Similar
+South East region,Milton Keynes,Male,2017 - 19,15.0677595260177,52.0,Similar,Similar
+South East region,Brighton and Hove,Male,2017 - 19,20.87797098489,79.0,Worse,Worse
+South East region,Portsmouth,Male,2017 - 19,17.9321673490678,46.0,Similar,Similar
+South East region,Southampton,Male,2017 - 19,16.3335459925656,55.0,Similar,Similar
+South East region,Isle of Wight,Male,2017 - 19,16.8513140111975,30.0,Similar,Similar
+North East region,County Durham,Male,2017 - 19,20.5970064934726,138.0,Worse,Similar
+North West region,Cheshire East,Male,2017 - 19,16.970399975522,81.0,Similar,Similar
+North West region,Cheshire West and Chester,Male,2017 - 19,12.920078390022,56.0,Similar,Similar
+West Midlands region,Shropshire,Male,2017 - 19,14.4231743245209,59.0,Similar,Similar
+South West region,Cornwall,Male,2017 - 19,20.1199770367263,142.0,Worse,Similar
+South West region,Isles of Scilly,Male,2017 - 19,,,Not compared,Not compared
+South West region,Wiltshire,Male,2017 - 19,13.3677482947239,85.0,Similar,Better
+East of England region,Bedford,Male,2017 - 19,18.4157877893961,40.0,Similar,Similar
+East of England region,Central Bedfordshire,Male,2017 - 19,12.5921515427199,46.0,Similar,Similar
+North East region,Northumberland,Male,2017 - 19,22.1726164460612,85.0,Worse,Similar
+South West region,"Bournemouth, Christchurch and Poole",Male,2017 - 19,18.2547853305892,96.0,Similar,Similar
+South West region,Dorset,Male,2017 - 19,20.1089741191551,95.0,Worse,Similar
+South East region,Buckinghamshire UA,Male,2017 - 19,12.5618077553418,86.0,Similar,Similar
+North West region,Bolton,Male,2017 - 19,18.0811612371506,65.0,Similar,Similar
+North West region,Bury,Male,2017 - 19,14.3485937938962,34.0,Similar,Similar
+North West region,Manchester,Male,2017 - 19,13.842241135593,91.0,Similar,Similar
+North West region,Oldham,Male,2017 - 19,12.4888465031373,36.0,Similar,Similar
+North West region,Rochdale,Male,2017 - 19,15.7212761495028,41.0,Similar,Similar
+North West region,Salford,Male,2017 - 19,18.9257100881944,63.0,Similar,Similar
+North West region,Stockport,Male,2017 - 19,13.7497854143779,51.0,Similar,Similar
+North West region,Tameside,Male,2017 - 19,15.3947116678071,44.0,Similar,Similar
+North West region,Trafford,Male,2017 - 19,12.6180313404095,37.0,Similar,Similar
+North West region,Wigan,Male,2017 - 19,19.73402583275,84.0,Worse,Similar
+North West region,Knowsley,Male,2017 - 19,18.2614910470226,33.0,Similar,Similar
+North West region,Liverpool,Male,2017 - 19,15.4493468254461,99.0,Similar,Similar
+North West region,St. Helens,Male,2017 - 19,24.1494503368286,53.0,Worse,Worse
+North West region,Sefton,Male,2017 - 19,16.448386534783,56.0,Similar,Similar
+North West region,Wirral,Male,2017 - 19,14.8234591852407,59.0,Similar,Similar
+Yorkshire and the Humber region,Barnsley,Male,2017 - 19,17.3831232606338,56.0,Similar,Similar
+Yorkshire and the Humber region,Doncaster,Male,2017 - 19,20.4873249927389,82.0,Worse,Similar
+Yorkshire and the Humber region,Rotherham,Male,2017 - 19,22.3091763434405,71.0,Worse,Similar
+Yorkshire and the Humber region,Sheffield,Male,2017 - 19,15.1729047156846,111.0,Similar,Better
+North East region,Newcastle upon Tyne,Male,2017 - 19,17.0895601672561,65.0,Similar,Similar
+North East region,North Tyneside,Male,2017 - 19,19.6311227682855,52.0,Similar,Similar
+North East region,South Tyneside,Male,2017 - 19,16.6156822538873,31.0,Similar,Similar
+North East region,Sunderland,Male,2017 - 19,21.3249191534794,76.0,Worse,Similar
+West Midlands region,Birmingham,Male,2017 - 19,13.1933019090305,176.0,Better,Better
+West Midlands region,Coventry,Male,2017 - 19,16.187797447201,76.0,Similar,Similar
+West Midlands region,Dudley,Male,2017 - 19,15.7170148087415,63.0,Similar,Similar
+West Midlands region,Sandwell,Male,2017 - 19,17.5643870673718,71.0,Similar,Similar
+West Midlands region,Solihull,Male,2017 - 19,20.8136018094959,56.0,Worse,Similar
+West Midlands region,Walsall,Male,2017 - 19,14.566476272858,52.0,Similar,Similar
+West Midlands region,Wolverhampton,Male,2017 - 19,15.4575459492679,50.0,Similar,Similar
+Yorkshire and the Humber region,Bradford,Male,2017 - 19,15.6159195632193,99.0,Similar,Similar
+Yorkshire and the Humber region,Calderdale,Male,2017 - 19,21.3849185073532,57.0,Worse,Similar
+Yorkshire and the Humber region,Kirklees,Male,2017 - 19,17.5493047016562,97.0,Similar,Similar
+Yorkshire and the Humber region,Leeds,Male,2017 - 19,19.1627322303342,194.0,Worse,Similar
+Yorkshire and the Humber region,Wakefield,Male,2017 - 19,18.860507631255,82.0,Similar,Similar
+North East region,Gateshead,Male,2017 - 19,10.9575996789494,28.0,Similar,Better
+London region,City of London,Male,2017 - 19,,2.0,Not compared,Not compared
+London region,Barking and Dagenham,Male,2017 - 19,10.7856747268564,26.0,Similar,Similar
+London region,Barnet,Male,2017 - 19,9.70120485980069,48.0,Better,Similar
+London region,Bexley,Male,2017 - 19,14.2445452041776,44.0,Similar,Similar
+London region,Brent,Male,2017 - 19,11.75475977854,50.0,Similar,Similar
+London region,Bromley,Male,2017 - 19,11.3711921422921,47.0,Better,Similar
+London region,Camden,Male,2017 - 19,17.3668960778321,48.0,Similar,Worse
+London region,Croydon,Male,2017 - 19,15.8034685299931,74.0,Similar,Similar
+London region,Ealing,Male,2017 - 19,14.2866343420953,62.0,Similar,Similar
+London region,Enfield,Male,2017 - 19,7.94242294681423,32.0,Better,Better
+London region,Greenwich,Male,2017 - 19,13.216421457701,44.0,Similar,Similar
+London region,Hackney,Male,2017 - 19,12.9772328911174,39.0,Similar,Similar
+London region,Hammersmith and Fulham,Male,2017 - 19,15.0412706643567,35.0,Similar,Similar
+London region,Haringey,Male,2017 - 19,13.9609042592951,46.0,Similar,Similar
+London region,Harrow,Male,2017 - 19,5.79948012662149,20.0,Better,Better
+London region,Havering,Male,2017 - 19,10.5379220680367,32.0,Better,Similar
+London region,Hillingdon,Male,2017 - 19,14.7775665953225,58.0,Similar,Similar
+London region,Hounslow,Male,2017 - 19,15.7538284862555,53.0,Similar,Similar
+London region,Islington,Male,2017 - 19,15.0478645674842,37.0,Similar,Similar
+London region,Kensington and Chelsea,Male,2017 - 19,13.2458727853746,27.0,Similar,Similar
+London region,Kingston upon Thames,Male,2017 - 19,14.0864518660671,31.0,Similar,Similar
+London region,Lambeth,Male,2017 - 19,11.0546664628577,43.0,Better,Similar
+London region,Lewisham,Male,2017 - 19,15.5129345241482,53.0,Similar,Similar
+London region,Merton,Male,2017 - 19,11.1335033064048,28.0,Similar,Similar
+London region,Newham,Male,2017 - 19,8.49099475997116,41.0,Better,Better
+London region,Redbridge,Male,2017 - 19,11.3956529341676,40.0,Similar,Similar
+London region,Richmond upon Thames,Male,2017 - 19,15.0922494610708,36.0,Similar,Similar
+London region,Southwark,Male,2017 - 19,12.5048549670636,47.0,Similar,Similar
+London region,Sutton,Male,2017 - 19,14.8696382588369,37.0,Similar,Similar
+London region,Tower Hamlets,Male,2017 - 19,11.9124520775623,51.0,Similar,Similar
+London region,Waltham Forest,Male,2017 - 19,14.2811773007533,48.0,Similar,Similar
+London region,Wandsworth,Male,2017 - 19,14.5309603539037,52.0,Similar,Similar
+London region,Westminster,Male,2017 - 19,8.18561120497709,28.0,Better,Better
+East of England region,Cambridgeshire,Male,2017 - 19,15.1195946818309,129.0,Similar,Similar
+North West region,Cumbria,Male,2017 - 19,18.9714405914586,121.0,Worse,Similar
+East Midlands region,Derbyshire,Male,2017 - 19,13.6268388633125,141.0,Similar,Similar
+South West region,Devon,Male,2017 - 19,18.6419930957698,188.0,Worse,Similar
+South East region,East Sussex,Male,2017 - 19,19.7223608899263,136.0,Worse,Worse
+East of England region,Essex,Male,2017 - 19,19.3716389348661,364.0,Worse,Worse
+South West region,Gloucestershire,Male,2017 - 19,15.4793276848996,126.0,Similar,Similar
+South East region,Hampshire,Male,2017 - 19,13.4397094852752,234.0,Better,Similar
+East of England region,Hertfordshire,Male,2017 - 19,13.9695248674109,208.0,Similar,Better
+South East region,Kent,Male,2017 - 19,15.6430688853938,308.0,Similar,Similar
+North West region,Lancashire,Male,2017 - 19,19.617346964396,302.0,Worse,Worse
+East Midlands region,Leicestershire,Male,2017 - 19,11.8171099184742,107.0,Better,Better
+East Midlands region,Lincolnshire,Male,2017 - 19,17.6320353212811,171.0,Similar,Worse
+East of England region,Norfolk,Male,2017 - 19,17.8557469190103,208.0,Similar,Similar
+Yorkshire and the Humber region,North Yorkshire,Male,2017 - 19,18.6851640964637,145.0,Worse,Similar
+East Midlands region,Nottinghamshire,Male,2017 - 19,13.5158067124303,144.0,Similar,Similar
+South East region,Oxfordshire,Male,2017 - 19,14.9113714187181,133.0,Similar,Similar
+South West region,Somerset,Male,2017 - 19,20.7537769850393,141.0,Worse,Similar
+West Midlands region,Staffordshire,Male,2017 - 19,17.011503804686,195.0,Similar,Similar
+East of England region,Suffolk,Male,2017 - 19,14.2071157266694,138.0,Similar,Similar
+South East region,Surrey,Male,2017 - 19,12.3105184911332,187.0,Better,Better
+West Midlands region,Warwickshire,Male,2017 - 19,14.7626358639533,108.0,Similar,Similar
+South East region,West Sussex,Male,2017 - 19,14.3668974403818,155.0,Similar,Similar
+West Midlands region,Worcestershire,Male,2017 - 19,16.8296245029719,128.0,Similar,Similar
+North East region,Hartlepool,Female,2017 - 19,,2.0,Not compared,Not compared
+North East region,Middlesbrough,Female,2017 - 19,,9.0,Not compared,Not compared
+North East region,Redcar and Cleveland,Female,2017 - 19,6.32734205845197,11.0,Similar,Similar
+North East region,Stockton-on-Tees,Female,2017 - 19,,8.0,Not compared,Not compared
+North East region,Darlington,Female,2017 - 19,,8.0,Not compared,Not compared
+North West region,Halton,Female,2017 - 19,,8.0,Not compared,Not compared
+North West region,Warrington,Female,2017 - 19,4.12028611502448,11.0,Similar,Similar
+North West region,Blackburn with Darwen,Female,2017 - 19,5.91166430171709,12.0,Similar,Similar
+North West region,Blackpool,Female,2017 - 19,6.36838266646642,12.0,Similar,Similar
+Yorkshire and the Humber region,Kingston upon Hull,Female,2017 - 19,7.39640953611209,25.0,Similar,Similar
+Yorkshire and the Humber region,East Riding of Yorkshire,Female,2017 - 19,5.59991533341604,26.0,Similar,Similar
+Yorkshire and the Humber region,North East Lincolnshire,Female,2017 - 19,,9.0,Not compared,Not compared
+Yorkshire and the Humber region,North Lincolnshire,Female,2017 - 19,7.09819043824709,16.0,Similar,Similar
+Yorkshire and the Humber region,York,Female,2017 - 19,5.6374322335857,15.0,Similar,Similar
+East Midlands region,Derby,Female,2017 - 19,3.4541864687954,12.0,Similar,Similar
+East Midlands region,Leicester,Female,2017 - 19,3.18817682020799,14.0,Similar,Similar
+East Midlands region,Rutland,Female,2017 - 19,,1.0,Not compared,Not compared
+East Midlands region,Nottingham,Female,2017 - 19,5.60383576515876,22.0,Similar,Similar
+West Midlands region,Herefordshire,Female,2017 - 19,,9.0,Not compared,Not compared
+West Midlands region,Telford and Wrekin,Female,2017 - 19,4.73714222764837,11.0,Similar,Similar
+West Midlands region,Stoke-on-Trent,Female,2017 - 19,4.43831247882757,14.0,Similar,Similar
+South West region,Bath and North East Somerset,Female,2017 - 19,,9.0,Not compared,Not compared
+South West region,Bristol,Female,2017 - 19,4.65405552069164,32.0,Similar,Similar
+South West region,North Somerset,Female,2017 - 19,4.90008431672948,13.0,Similar,Similar
+South West region,South Gloucestershire,Female,2017 - 19,3.45411396964765,13.0,Similar,Similar
+South West region,Plymouth,Female,2017 - 19,5.66226958922327,21.0,Similar,Similar
+South West region,Torbay,Female,2017 - 19,11.1304712454062,19.0,Worse,Worse
+South West region,Swindon,Female,2017 - 19,3.58832959096541,10.0,Similar,Similar
+East of England region,Peterborough,Female,2017 - 19,6.34134911147354,16.0,Similar,Similar
+East of England region,Luton,Female,2017 - 19,,8.0,Not compared,Not compared
+East of England region,Southend-on-Sea,Female,2017 - 19,6.0059090348905,15.0,Similar,Similar
+East of England region,Thurrock,Female,2017 - 19,,7.0,Not compared,Not compared
+South East region,Medway,Female,2017 - 19,,9.0,Not compared,Not compared
+South East region,Bracknell Forest,Female,2017 - 19,,4.0,Not compared,Not compared
+South East region,West Berkshire,Female,2017 - 19,,8.0,Not compared,Not compared
+South East region,Reading,Female,2017 - 19,5.53022333987439,10.0,Similar,Similar
+South East region,Slough,Female,2017 - 19,,3.0,Not compared,Not compared
+South East region,Windsor and Maidenhead,Female,2017 - 19,5.04634603305056,10.0,Similar,Similar
+South East region,Wokingham,Female,2017 - 19,,6.0,Not compared,Not compared
+South East region,Milton Keynes,Female,2017 - 19,3.24173543036502,11.0,Similar,Similar
+South East region,Brighton and Hove,Female,2017 - 19,7.50268954371864,29.0,Worse,Worse
+South East region,Portsmouth,Female,2017 - 19,8.45827878035742,22.0,Worse,Worse
+South East region,Southampton,Female,2017 - 19,5.99217304248825,17.0,Similar,Similar
+South East region,Isle of Wight,Female,2017 - 19,5.9410980012039,11.0,Similar,Similar
+North East region,County Durham,Female,2017 - 19,6.58126045320015,47.0,Similar,Worse
+North West region,Cheshire East,Female,2017 - 19,3.6374410602345,18.0,Similar,Similar
+North West region,Cheshire West and Chester,Female,2017 - 19,4.37265543324327,21.0,Similar,Similar
+West Midlands region,Shropshire,Female,2017 - 19,5.61261091409112,25.0,Similar,Similar
+South West region,Cornwall,Female,2017 - 19,5.9275544082563,45.0,Similar,Similar
+South West region,Isles of Scilly,Female,2017 - 19,,,Not compared,Not compared
+South West region,Wiltshire,Female,2017 - 19,2.83935764885309,19.0,Better,Better
+East of England region,Bedford,Female,2017 - 19,,8.0,Not compared,Not compared
+East of England region,Central Bedfordshire,Female,2017 - 19,3.45049057681451,13.0,Similar,Similar
+North East region,Northumberland,Female,2017 - 19,3.88352729334214,16.0,Similar,Similar
+South West region,"Bournemouth, Christchurch and Poole",Female,2017 - 19,8.30685249781671,42.0,Worse,Worse
+South West region,Dorset,Female,2017 - 19,5.34003998541475,28.0,Similar,Similar
+South East region,Buckinghamshire UA,Female,2017 - 19,5.96492970176713,43.0,Similar,Similar
+North West region,Bolton,Female,2017 - 19,4.50902832924334,17.0,Similar,Similar
+North West region,Bury,Female,2017 - 19,4.63170360260992,11.0,Similar,Similar
+North West region,Manchester,Female,2017 - 19,4.12625166574379,30.0,Similar,Similar
+North West region,Oldham,Female,2017 - 19,4.54821195096581,14.0,Similar,Similar
+North West region,Rochdale,Female,2017 - 19,4.64138321376717,13.0,Similar,Similar
+North West region,Salford,Female,2017 - 19,8.69688338653668,27.0,Worse,Worse
+North West region,Stockport,Female,2017 - 19,4.33128740472804,17.0,Similar,Similar
+North West region,Tameside,Female,2017 - 19,3.62599047884,11.0,Similar,Similar
+North West region,Trafford,Female,2017 - 19,3.96102938174105,12.0,Similar,Similar
+North West region,Wigan,Female,2017 - 19,7.34818241989027,32.0,Worse,Worse
+North West region,Knowsley,Female,2017 - 19,,7.0,Not compared,Not compared
+North West region,Liverpool,Female,2017 - 19,4.24916889768632,27.0,Similar,Similar
+North West region,St. Helens,Female,2017 - 19,4.831175760544,12.0,Similar,Similar
+North West region,Sefton,Female,2017 - 19,4.18632099459564,15.0,Similar,Similar
+North West region,Wirral,Female,2017 - 19,3.00467155854551,13.0,Similar,Similar
+Yorkshire and the Humber region,Barnsley,Female,2017 - 19,4.19786467786199,13.0,Similar,Similar
+Yorkshire and the Humber region,Doncaster,Female,2017 - 19,6.84223956232749,27.0,Similar,Similar
+Yorkshire and the Humber region,Rotherham,Female,2017 - 19,7.52386439267638,26.0,Worse,Similar
+Yorkshire and the Humber region,Sheffield,Female,2017 - 19,4.92156188780449,39.0,Similar,Similar
+North East region,Newcastle upon Tyne,Female,2017 - 19,3.93141557382854,14.0,Similar,Similar
+North East region,North Tyneside,Female,2017 - 19,6.21127668585608,18.0,Similar,Similar
+North East region,South Tyneside,Female,2017 - 19,,2.0,Not compared,Not compared
+North East region,Sunderland,Female,2017 - 19,3.96590567410867,15.0,Similar,Similar
+West Midlands region,Birmingham,Female,2017 - 19,4.27705346616045,60.0,Similar,Similar
+West Midlands region,Coventry,Female,2017 - 19,4.95788987453704,23.0,Similar,Similar
+West Midlands region,Dudley,Female,2017 - 19,5.71221342751202,24.0,Similar,Similar
+West Midlands region,Sandwell,Female,2017 - 19,4.46221290362824,18.0,Similar,Similar
+West Midlands region,Solihull,Female,2017 - 19,6.09386015933129,18.0,Similar,Similar
+West Midlands region,Walsall,Female,2017 - 19,3.61532661459196,13.0,Similar,Similar
+West Midlands region,Wolverhampton,Female,2017 - 19,3.19916441436249,11.0,Similar,Similar
+Yorkshire and the Humber region,Bradford,Female,2017 - 19,3.47653392326718,24.0,Similar,Better
+Yorkshire and the Humber region,Calderdale,Female,2017 - 19,8.49236083709321,24.0,Worse,Similar
+Yorkshire and the Humber region,Kirklees,Female,2017 - 19,4.3799968233153,25.0,Similar,Similar
+Yorkshire and the Humber region,Leeds,Female,2017 - 19,6.43916889834976,67.0,Worse,Similar
+Yorkshire and the Humber region,Wakefield,Female,2017 - 19,8.31598719611273,38.0,Worse,Worse
+North East region,Gateshead,Female,2017 - 19,,9.0,Not compared,Not compared
+London region,City of London,Female,2017 - 19,,2.0,Not compared,Not compared
+London region,Barking and Dagenham,Female,2017 - 19,,6.0,Not compared,Not compared
+London region,Barnet,Female,2017 - 19,3.80493036792694,18.0,Similar,Similar
+London region,Bexley,Female,2017 - 19,3.89907863784564,13.0,Similar,Similar
+London region,Brent,Female,2017 - 19,2.45620722621332,11.0,Better,Similar
+London region,Bromley,Female,2017 - 19,3.90668471681991,17.0,Similar,Similar
+London region,Camden,Female,2017 - 19,5.95939739469945,21.0,Similar,Similar
+London region,Croydon,Female,2017 - 19,3.79763956284595,19.0,Similar,Similar
+London region,Ealing,Female,2017 - 19,4.03102568764239,16.0,Similar,Similar
+London region,Enfield,Female,2017 - 19,4.08395185748313,18.0,Similar,Similar
+London region,Greenwich,Female,2017 - 19,4.50452983076367,15.0,Similar,Similar
+London region,Hackney,Female,2017 - 19,3.72325749395597,14.0,Similar,Similar
+London region,Hammersmith and Fulham,Female,2017 - 19,7.04624731062956,15.0,Similar,Similar
+London region,Haringey,Female,2017 - 19,5.60468191210875,19.0,Similar,Similar
+London region,Harrow,Female,2017 - 19,3.906821859602,13.0,Similar,Similar
+London region,Havering,Female,2017 - 19,4.51704333036316,15.0,Similar,Similar
+London region,Hillingdon,Female,2017 - 19,4.16658643829866,16.0,Similar,Similar
+London region,Hounslow,Female,2017 - 19,5.45550907851672,18.0,Similar,Similar
+London region,Islington,Female,2017 - 19,6.14045667734364,17.0,Similar,Similar
+London region,Kensington and Chelsea,Female,2017 - 19,5.13967829607973,11.0,Similar,Similar
+London region,Kingston upon Thames,Female,2017 - 19,6.75791659228468,16.0,Similar,Similar
+London region,Lambeth,Female,2017 - 19,5.47375534698151,20.0,Similar,Similar
+London region,Lewisham,Female,2017 - 19,3.25088708890335,15.0,Similar,Similar
+London region,Merton,Female,2017 - 19,3.86066544071022,10.0,Similar,Similar
+London region,Newham,Female,2017 - 19,4.31374883056524,15.0,Similar,Similar
+London region,Redbridge,Female,2017 - 19,3.07930893375101,12.0,Similar,Similar
+London region,Richmond upon Thames,Female,2017 - 19,3.79735225817008,10.0,Similar,Similar
+London region,Southwark,Female,2017 - 19,5.57697244830542,23.0,Similar,Similar
+London region,Sutton,Female,2017 - 19,6.57473363722794,17.0,Similar,Similar
+London region,Tower Hamlets,Female,2017 - 19,5.08330815455262,16.0,Similar,Similar
+London region,Waltham Forest,Female,2017 - 19,3.31377517284091,11.0,Similar,Similar
+London region,Wandsworth,Female,2017 - 19,3.59033446395802,14.0,Similar,Similar
+London region,Westminster,Female,2017 - 19,3.75150574908678,13.0,Similar,Similar
+East of England region,Cambridgeshire,Female,2017 - 19,5.66731071200636,49.0,Similar,Similar
+North West region,Cumbria,Female,2017 - 19,5.49049894810018,36.0,Similar,Similar
+East Midlands region,Derbyshire,Female,2017 - 19,5.38841501520124,58.0,Similar,Similar
+South West region,Devon,Female,2017 - 19,5.65086437767769,65.0,Similar,Similar
+South East region,East Sussex,Female,2017 - 19,7.73443196793129,60.0,Worse,Worse
+East of England region,Essex,Female,2017 - 19,6.97406037641782,137.0,Worse,Worse
+South West region,Gloucestershire,Female,2017 - 19,5.20145701055331,44.0,Similar,Similar
+South East region,Hampshire,Female,2017 - 19,4.09942030608827,78.0,Similar,Similar
+East of England region,Hertfordshire,Female,2017 - 19,4.76530384608302,75.0,Similar,Similar
+South East region,Kent,Female,2017 - 19,5.38247743254518,113.0,Similar,Similar
+North West region,Lancashire,Female,2017 - 19,6.13571040098115,100.0,Worse,Worse
+East Midlands region,Leicestershire,Female,2017 - 19,3.94840043763547,37.0,Similar,Similar
+East Midlands region,Lincolnshire,Female,2017 - 19,5.17974583258435,53.0,Similar,Similar
+East of England region,Norfolk,Female,2017 - 19,4.67269017129428,57.0,Similar,Similar
+Yorkshire and the Humber region,North Yorkshire,Female,2017 - 19,6.07382072176588,50.0,Similar,Similar
+East Midlands region,Nottinghamshire,Female,2017 - 19,4.94375222303728,55.0,Similar,Similar
+South East region,Oxfordshire,Female,2017 - 19,3.14084990451173,29.0,Better,Better
+South West region,Somerset,Female,2017 - 19,5.80245005821066,45.0,Similar,Similar
+West Midlands region,Staffordshire,Female,2017 - 19,6.1453667286758,71.0,Similar,Worse
+East of England region,Suffolk,Female,2017 - 19,5.00950125692162,50.0,Similar,Similar
+South East region,Surrey,Female,2017 - 19,4.22678472691558,68.0,Similar,Similar
+West Midlands region,Warwickshire,Female,2017 - 19,4.48076688987761,35.0,Similar,Similar
+South East region,West Sussex,Female,2017 - 19,5.31222578903804,61.0,Similar,Similar
+West Midlands region,Worcestershire,Female,2017 - 19,4.44020728734874,36.0,Similar,Similar
+North East region,Hartlepool,Persons,2017 - 19,10.3615298486528,26.0,Similar,Similar
+North East region,Middlesbrough,Persons,2017 - 19,14.4646797370821,49.0,Worse,Similar
+North East region,Redcar and Cleveland,Persons,2017 - 19,13.538657854162,47.0,Similar,Similar
+North East region,Stockton-on-Tees,Persons,2017 - 19,8.6736802699586,45.0,Similar,Better
+North East region,Darlington,Persons,2017 - 19,13.646432547179,38.0,Similar,Similar
+North West region,Halton,Persons,2017 - 19,11.7126267724856,39.0,Similar,Similar
+North West region,Warrington,Persons,2017 - 19,9.93255594093399,56.0,Similar,Similar
+North West region,Blackburn with Darwen,Persons,2017 - 19,8.34737865913796,33.0,Similar,Similar
+North West region,Blackpool,Persons,2017 - 19,15.8168986004907,58.0,Worse,Worse
+Yorkshire and the Humber region,Kingston upon Hull,Persons,2017 - 19,14.7626883843981,97.0,Worse,Similar
+Yorkshire and the Humber region,East Riding of Yorkshire,Persons,2017 - 19,12.9538401533134,115.0,Worse,Similar
+Yorkshire and the Humber region,North East Lincolnshire,Persons,2017 - 19,11.2146578802552,46.0,Similar,Similar
+Yorkshire and the Humber region,North Lincolnshire,Persons,2017 - 19,11.8337249741676,53.0,Similar,Similar
+Yorkshire and the Humber region,York,Persons,2017 - 19,11.7661197762607,61.0,Similar,Similar
+East Midlands region,Derby,Persons,2017 - 19,7.95687599351732,53.0,Similar,Similar
+East Midlands region,Leicester,Persons,2017 - 19,8.05842826404862,71.0,Similar,Similar
+East Midlands region,Rutland,Persons,2017 - 19,,7.0,Not compared,Not compared
+East Midlands region,Nottingham,Persons,2017 - 19,12.7050063225687,99.0,Worse,Worse
+West Midlands region,Herefordshire,Persons,2017 - 19,10.5202129878348,53.0,Similar,Similar
+West Midlands region,Telford and Wrekin,Persons,2017 - 19,10.2210804737265,47.0,Similar,Similar
+West Midlands region,Stoke-on-Trent,Persons,2017 - 19,12.4796948944276,80.0,Similar,Similar
+South West region,Bath and North East Somerset,Persons,2017 - 19,10.397234800585,51.0,Similar,Similar
+South West region,Bristol,Persons,2017 - 19,11.4110911599488,138.0,Similar,Similar
+South West region,North Somerset,Persons,2017 - 19,10.5193117494912,58.0,Similar,Similar
+South West region,South Gloucestershire,Persons,2017 - 19,9.07645590494098,67.0,Similar,Similar
+South West region,Plymouth,Persons,2017 - 19,11.6739155246097,84.0,Similar,Similar
+South West region,Torbay,Persons,2017 - 19,18.9579907948131,64.0,Worse,Worse
+South West region,Swindon,Persons,2017 - 19,7.38976335202299,43.0,Better,Better
+East of England region,Peterborough,Persons,2017 - 19,12.4236732729605,63.0,Similar,Similar
+East of England region,Luton,Persons,2017 - 19,6.56331370233465,35.0,Better,Better
+East of England region,Southend-on-Sea,Persons,2017 - 19,13.1650058937533,63.0,Worse,Similar
+East of England region,Thurrock,Persons,2017 - 19,5.47795231065215,25.0,Better,Better
+South East region,Medway,Persons,2017 - 19,8.33927135064086,58.0,Similar,Similar
+South East region,Bracknell Forest,Persons,2017 - 19,9.10408258264458,28.0,Similar,Similar
+South East region,West Berkshire,Persons,2017 - 19,9.7179042753368,40.0,Similar,Similar
+South East region,Reading,Persons,2017 - 19,9.85390735235332,38.0,Similar,Similar
+South East region,Slough,Persons,2017 - 19,8.8674765937404,31.0,Similar,Similar
+South East region,Windsor and Maidenhead,Persons,2017 - 19,8.02346147414324,32.0,Similar,Similar
+South East region,Wokingham,Persons,2017 - 19,6.77927429587632,29.0,Better,Similar
+South East region,Milton Keynes,Persons,2017 - 19,8.94077179939952,63.0,Similar,Similar
+South East region,Brighton and Hove,Persons,2017 - 19,14.2517116397984,108.0,Worse,Worse
+South East region,Portsmouth,Persons,2017 - 19,13.0444713310767,68.0,Similar,Worse
+South East region,Southampton,Persons,2017 - 19,11.367920853548,72.0,Similar,Similar
+South East region,Isle of Wight,Persons,2017 - 19,11.1924349738002,41.0,Similar,Similar
+North East region,County Durham,Persons,2017 - 19,13.4425500406868,185.0,Worse,Similar
+North West region,Cheshire East,Persons,2017 - 19,10.1788993397398,99.0,Similar,Similar
+North West region,Cheshire West and Chester,Persons,2017 - 19,8.41016504048488,77.0,Similar,Better
+West Midlands region,Shropshire,Persons,2017 - 19,9.94311331513638,84.0,Similar,Similar
+South West region,Cornwall,Persons,2017 - 19,12.708996152887,187.0,Worse,Similar
+South West region,Isles of Scilly,Persons,2017 - 19,,,Not compared,Not compared
+South West region,Wiltshire,Persons,2017 - 19,8.07285975556657,104.0,Better,Better
+East of England region,Bedford,Persons,2017 - 19,10.8535349251951,48.0,Similar,Similar
+East of England region,Central Bedfordshire,Persons,2017 - 19,7.91629165000486,59.0,Similar,Better
+North East region,Northumberland,Persons,2017 - 19,12.7838261817046,101.0,Worse,Similar
+South West region,"Bournemouth, Christchurch and Poole",Persons,2017 - 19,13.210614726546,138.0,Worse,Similar
+South West region,Dorset,Persons,2017 - 19,12.5498130010037,123.0,Worse,Similar
+South East region,Buckinghamshire UA,Persons,2017 - 19,9.21048965036134,129.0,Similar,Similar
+North West region,Bolton,Persons,2017 - 19,11.2009598674128,82.0,Similar,Similar
+North West region,Bury,Persons,2017 - 19,9.26188170713139,45.0,Similar,Similar
+North West region,Manchester,Persons,2017 - 19,8.88145035172568,121.0,Similar,Better
+North West region,Oldham,Persons,2017 - 19,8.53424110059235,50.0,Similar,Similar
+North West region,Rochdale,Persons,2017 - 19,9.92333627429523,54.0,Similar,Similar
+North West region,Salford,Persons,2017 - 19,13.7938740196844,90.0,Worse,Worse
+North West region,Stockport,Persons,2017 - 19,8.80866002695476,68.0,Similar,Similar
+North West region,Tameside,Persons,2017 - 19,9.42511639180069,55.0,Similar,Similar
+North West region,Trafford,Persons,2017 - 19,8.10703231222509,49.0,Similar,Similar
+North West region,Wigan,Persons,2017 - 19,13.5006414792395,116.0,Worse,Worse
+North West region,Knowsley,Persons,2017 - 19,10.4405535204348,40.0,Similar,Similar
+North West region,Liverpool,Persons,2017 - 19,9.85169159322624,126.0,Similar,Similar
+North West region,St. Helens,Persons,2017 - 19,13.944002196846,65.0,Worse,Worse
+North West region,Sefton,Persons,2017 - 19,10.041998697227,71.0,Similar,Similar
+North West region,Wirral,Persons,2017 - 19,8.65044781613469,72.0,Similar,Similar
+Yorkshire and the Humber region,Barnsley,Persons,2017 - 19,10.7234636627438,69.0,Similar,Similar
+Yorkshire and the Humber region,Doncaster,Persons,2017 - 19,13.6754393654509,109.0,Worse,Similar
+Yorkshire and the Humber region,Rotherham,Persons,2017 - 19,14.6017378250049,97.0,Worse,Similar
+Yorkshire and the Humber region,Sheffield,Persons,2017 - 19,10.0070259338284,150.0,Similar,Better
+North East region,Newcastle upon Tyne,Persons,2017 - 19,10.5339595689208,79.0,Similar,Similar
+North East region,North Tyneside,Persons,2017 - 19,12.6258092813516,70.0,Similar,Similar
+North East region,South Tyneside,Persons,2017 - 19,8.42716151778917,33.0,Similar,Similar
+North East region,Sunderland,Persons,2017 - 19,12.4119314954203,91.0,Similar,Similar
+West Midlands region,Birmingham,Persons,2017 - 19,8.65882484704827,236.0,Better,Better
+West Midlands region,Coventry,Persons,2017 - 19,10.5751709235245,99.0,Similar,Similar
+West Midlands region,Dudley,Persons,2017 - 19,10.5694851075349,87.0,Similar,Similar
+West Midlands region,Sandwell,Persons,2017 - 19,10.8011183492166,89.0,Similar,Similar
+West Midlands region,Solihull,Persons,2017 - 19,13.2654902318398,74.0,Worse,Worse
+West Midlands region,Walsall,Persons,2017 - 19,9.01896225728246,65.0,Similar,Similar
+West Midlands region,Wolverhampton,Persons,2017 - 19,9.20861788361125,61.0,Similar,Similar
+Yorkshire and the Humber region,Bradford,Persons,2017 - 19,9.35267631283011,123.0,Similar,Better
+Yorkshire and the Humber region,Calderdale,Persons,2017 - 19,14.7646955492501,81.0,Worse,Similar
+Yorkshire and the Humber region,Kirklees,Persons,2017 - 19,10.7670342608538,122.0,Similar,Similar
+Yorkshire and the Humber region,Leeds,Persons,2017 - 19,12.681133556927,261.0,Worse,Similar
+Yorkshire and the Humber region,Wakefield,Persons,2017 - 19,13.4637665223075,120.0,Worse,Similar
+North East region,Gateshead,Persons,2017 - 19,7.18439133348517,37.0,Better,Better
+London region,City of London,Persons,2017 - 19,,4.0,Not compared,Not compared
+London region,Barking and Dagenham,Persons,2017 - 19,6.06626537442725,32.0,Better,Similar
+London region,Barnet,Persons,2017 - 19,6.70762068024313,66.0,Better,Similar
+London region,Bexley,Persons,2017 - 19,8.924821796318,57.0,Similar,Similar
+London region,Brent,Persons,2017 - 19,7.0707159808698,61.0,Better,Similar
+London region,Bromley,Persons,2017 - 19,7.4362944476013,64.0,Better,Similar
+London region,Camden,Persons,2017 - 19,11.343694151238,69.0,Similar,Worse
+London region,Croydon,Persons,2017 - 19,9.53511931038284,93.0,Similar,Similar
+London region,Ealing,Persons,2017 - 19,9.07283521456127,78.0,Similar,Similar
+London region,Enfield,Persons,2017 - 19,5.88703780583564,50.0,Better,Better
+London region,Greenwich,Persons,2017 - 19,8.87785582411797,59.0,Similar,Similar
+London region,Hackney,Persons,2017 - 19,8.22936864286798,53.0,Similar,Similar
+London region,Hammersmith and Fulham,Persons,2017 - 19,10.9581985026796,50.0,Similar,Similar
+London region,Haringey,Persons,2017 - 19,9.56381704364164,65.0,Similar,Similar
+London region,Harrow,Persons,2017 - 19,4.93276591923196,33.0,Better,Better
+London region,Havering,Persons,2017 - 19,7.18096366544052,47.0,Better,Similar
+London region,Hillingdon,Persons,2017 - 19,9.49598342018493,74.0,Similar,Similar
+London region,Hounslow,Persons,2017 - 19,10.564505198884,71.0,Similar,Similar
+London region,Islington,Persons,2017 - 19,10.41261446181,54.0,Similar,Similar
+London region,Kensington and Chelsea,Persons,2017 - 19,9.1244964910046,38.0,Similar,Similar
+London region,Kingston upon Thames,Persons,2017 - 19,10.3418034385336,47.0,Similar,Similar
+London region,Lambeth,Persons,2017 - 19,8.14076673140918,63.0,Similar,Similar
+London region,Lewisham,Persons,2017 - 19,8.93003399394367,68.0,Similar,Similar
+London region,Merton,Persons,2017 - 19,7.31903541985168,38.0,Similar,Similar
+London region,Newham,Persons,2017 - 19,6.59416021630616,56.0,Better,Similar
+London region,Redbridge,Persons,2017 - 19,7.13941652874233,52.0,Better,Similar
+London region,Richmond upon Thames,Persons,2017 - 19,9.2072776394125,46.0,Similar,Similar
+London region,Southwark,Persons,2017 - 19,8.9197727402763,70.0,Similar,Similar
+London region,Sutton,Persons,2017 - 19,10.3682562818646,54.0,Similar,Similar
+London region,Tower Hamlets,Persons,2017 - 19,8.70362326947204,67.0,Similar,Similar
+London region,Waltham Forest,Persons,2017 - 19,8.73430689914214,59.0,Similar,Similar
+London region,Wandsworth,Persons,2017 - 19,8.76847324391982,66.0,Similar,Similar
+London region,Westminster,Persons,2017 - 19,5.99536623336945,41.0,Better,Similar
+East of England region,Cambridgeshire,Persons,2017 - 19,10.3589216327412,178.0,Similar,Similar
+North West region,Cumbria,Persons,2017 - 19,12.1193591808291,157.0,Worse,Similar
+East Midlands region,Derbyshire,Persons,2017 - 19,9.40399398640416,199.0,Similar,Similar
+South West region,Devon,Persons,2017 - 19,11.9814175628137,253.0,Worse,Similar
+South East region,East Sussex,Persons,2017 - 19,13.5276743949185,196.0,Worse,Worse
+East of England region,Essex,Persons,2017 - 19,13.0115259124224,501.0,Worse,Worse
+South West region,Gloucestershire,Persons,2017 - 19,10.2370536398915,170.0,Similar,Similar
+South East region,Hampshire,Persons,2017 - 19,8.65731151010213,312.0,Better,Similar
+East of England region,Hertfordshire,Persons,2017 - 19,9.17535105000672,283.0,Similar,Better
+South East region,Kent,Persons,2017 - 19,10.3487995878018,421.0,Similar,Similar
+North West region,Lancashire,Persons,2017 - 19,12.7535048157534,402.0,Worse,Worse
+East Midlands region,Leicestershire,Persons,2017 - 19,7.82178432720609,144.0,Better,Better
+East Midlands region,Lincolnshire,Persons,2017 - 19,11.2221678910697,224.0,Similar,Worse
+East of England region,Norfolk,Persons,2017 - 19,11.056700134275,265.0,Similar,Similar
+Yorkshire and the Humber region,North Yorkshire,Persons,2017 - 19,12.2519555336323,195.0,Worse,Similar
+East Midlands region,Nottinghamshire,Persons,2017 - 19,9.13540502923342,199.0,Similar,Similar
+South East region,Oxfordshire,Persons,2017 - 19,8.94764971177009,162.0,Similar,Similar
+South West region,Somerset,Persons,2017 - 19,13.0657716087948,186.0,Worse,Similar
+West Midlands region,Staffordshire,Persons,2017 - 19,11.5400154796713,266.0,Worse,Similar
+East of England region,Suffolk,Persons,2017 - 19,9.53172250185252,188.0,Similar,Similar
+South East region,Surrey,Persons,2017 - 19,8.18090944500409,255.0,Better,Better
+West Midlands region,Warwickshire,Persons,2017 - 19,9.38202322696322,143.0,Similar,Similar
+South East region,West Sussex,Persons,2017 - 19,9.67899522147934,216.0,Similar,Similar
+West Midlands region,Worcestershire,Persons,2017 - 19,10.479799128822,164.0,Similar,Similar

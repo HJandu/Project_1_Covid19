@@ -1,0 +1,28 @@
+Area Name,Sex,Time period,Value,Count,Compared to England value or percentiles
+North East region,Male,2017 - 19,19.0989642556352,642.0,Worse
+North West region,Male,2017 - 19,16.6507610853793,1549.0,Worse
+Yorkshire and the Humber region,Male,2017 - 19,18.3301479043641,1275.0,Worse
+East Midlands region,Male,2017 - 19,14.6335245243534,899.0,Similar
+West Midlands region,Male,2017 - 19,15.8418097322949,1180.0,Similar
+East of England region,Male,2017 - 19,16.0723758870194,1273.0,Similar
+London region,Male,2017 - 19,12.4037304053603,1359.0,Better
+South East region,Male,2017 - 19,14.6374130121977,1707.0,Better
+South West region,Male,2017 - 19,17.619797639652,1261.0,Worse
+North East region,Female,2017 - 19,4.48436740297131,159.0,Similar
+North West region,Female,2017 - 19,4.91765386393951,476.0,Similar
+Yorkshire and the Humber region,Female,2017 - 19,5.87154518289508,424.0,Worse
+East Midlands region,Female,2017 - 19,4.64984673263495,298.0,Similar
+West Midlands region,Female,2017 - 19,4.76815525392647,368.0,Similar
+East of England region,Female,2017 - 19,5.2823289201838,435.0,Similar
+London region,Female,2017 - 19,4.25760401156743,486.0,Better
+South East region,Female,2017 - 19,4.820749973796,592.0,Similar
+South West region,Female,2017 - 19,5.35996889361854,405.0,Similar
+North East region,Persons,2017 - 19,11.6207436888493,801.0,Worse
+North West region,Persons,2017 - 19,10.6477950147949,2025.0,Worse
+Yorkshire and the Humber region,Persons,2017 - 19,11.9667419352042,1699.0,Worse
+East Midlands region,Persons,2017 - 19,9.51541757604404,1197.0,Better
+West Midlands region,Persons,2017 - 19,10.19613401674,1548.0,Similar
+East of England region,Persons,2017 - 19,10.5422892831347,1708.0,Similar
+London region,Persons,2017 - 19,8.2169070315212,1845.0,Better
+South East region,Persons,2017 - 19,9.61788563446985,2299.0,Better
+South West region,Persons,2017 - 19,11.3474305948627,1666.0,Worse

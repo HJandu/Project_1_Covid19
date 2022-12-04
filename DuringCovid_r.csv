@@ -1,0 +1,28 @@
+Area Name,Sex,Time period,Value,Count,Compared to England value or percentiles
+North East region,Male,2019 - 21,20.7764608670109,709.0,Worse
+North West region,Male,2019 - 21,17.522836610656,1645.0,Worse
+Yorkshire and the Humber region,Male,2019 - 21,18.7875736516681,1323.0,Worse
+East Midlands region,Male,2019 - 21,16.327489390101,1016.0,Similar
+West Midlands region,Male,2019 - 21,16.4929983122233,1242.0,Similar
+East of England region,Male,2019 - 21,14.8247531802016,1181.0,Better
+London region,Male,2019 - 21,10.8153858273945,1231.0,Better
+South East region,Male,2019 - 21,15.94644469931,1876.0,Similar
+South West region,Male,2019 - 21,18.3015307730848,1328.0,Worse
+North East region,Female,2019 - 21,5.43234025106638,191.0,Similar
+North West region,Female,2019 - 21,5.47531166249297,532.0,Similar
+Yorkshire and the Humber region,Female,2019 - 21,6.52921210970143,476.0,Worse
+East Midlands region,Female,2019 - 21,4.65570202450914,301.0,Better
+West Midlands region,Female,2019 - 21,5.16259992974561,403.0,Similar
+East of England region,Female,2019 - 21,4.96019864978609,412.0,Similar
+London region,Female,2019 - 21,3.81049417426312,448.0,Better
+South East region,Female,2019 - 21,5.55249203610241,682.0,Similar
+South West region,Female,2019 - 21,5.90290669711394,451.0,Worse
+North East region,Persons,2019 - 21,12.9503472524811,900.0,Worse
+North West region,Persons,2019 - 21,11.3687471334997,2177.0,Worse
+Yorkshire and the Humber region,Persons,2019 - 21,12.5488173158219,1799.0,Worse
+East Midlands region,Persons,2019 - 21,10.34866228196,1317.0,Similar
+West Midlands region,Persons,2019 - 21,10.719293360221,1645.0,Similar
+East of England region,Persons,2019 - 21,9.76528584194412,1593.0,Better
+London region,Persons,2019 - 21,7.24920742257473,1679.0,Better
+South East region,Persons,2019 - 21,10.6232195866991,2558.0,Similar
+South West region,Persons,2019 - 21,11.9748619934796,1779.0,Worse
