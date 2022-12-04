@@ -1,0 +1,153 @@
+Parent Name,Area Name,Time period,Value,Count,Compared to England value or percentiles,Compared to Region value or percentiles
+North East region,Hartlepool,2019 - 21,14.6670187639968,36.0,Similar,Similar
+North East region,Middlesbrough,2019 - 21,14.8798519564433,54.0,Worse,Similar
+North East region,Redcar and Cleveland,2019 - 21,19.7506008384136,69.0,Worse,Worse
+North East region,Stockton-on-Tees,2019 - 21,10.2064448730501,52.0,Similar,Similar
+North East region,Darlington,2019 - 21,16.5980229404794,47.0,Worse,Similar
+North West region,Halton,2019 - 21,10.0659683628087,34.0,Similar,Similar
+North West region,Warrington,2019 - 21,9.03268000034964,51.0,Similar,Similar
+North West region,Blackburn with Darwen,2019 - 21,9.81554009592382,38.0,Similar,Similar
+North West region,Blackpool,2019 - 21,18.7040254383445,67.0,Worse,Worse
+Yorkshire and the Humber region,Kingston upon Hull,2019 - 21,13.1989410658691,90.0,Worse,Similar
+Yorkshire and the Humber region,East Riding of Yorkshire,2019 - 21,12.9605637809205,115.0,Worse,Similar
+Yorkshire and the Humber region,North East Lincolnshire,2019 - 21,6.82453469238235,28.0,Better,Better
+Yorkshire and the Humber region,North Lincolnshire,2019 - 21,9.30886566593352,43.0,Similar,Similar
+Yorkshire and the Humber region,York,2019 - 21,13.2600249958443,72.0,Similar,Similar
+East Midlands region,Derby,2019 - 21,8.84333116265376,58.0,Similar,Similar
+East Midlands region,Leicester,2019 - 21,10.6242339030808,90.0,Similar,Similar
+East Midlands region,Rutland,2019 - 21,,3.0,Not compared,Not compared
+East Midlands region,Nottingham,2019 - 21,11.2168296507233,94.0,Similar,Similar
+West Midlands region,Herefordshire,2019 - 21,12.5804209344625,64.0,Similar,Similar
+West Midlands region,Telford and Wrekin,2019 - 21,11.4286133603943,53.0,Similar,Similar
+West Midlands region,Stoke-on-Trent,2019 - 21,16.389456513413,106.0,Worse,Worse
+South West region,Bath and North East Somerset,2019 - 21,9.67315616428286,48.0,Similar,Similar
+South West region,Bristol,2019 - 21,11.7952650939121,140.0,Similar,Similar
+South West region,North Somerset,2019 - 21,8.74934194400878,51.0,Similar,Better
+South West region,South Gloucestershire,2019 - 21,7.92778927706593,60.0,Better,Better
+South West region,Plymouth,2019 - 21,10.7379125311878,76.0,Similar,Similar
+South West region,Torbay,2019 - 21,17.2481849232142,58.0,Worse,Worse
+South West region,Swindon,2019 - 21,11.544076212362,66.0,Similar,Similar
+East of England region,Peterborough,2019 - 21,11.2048250917327,58.0,Similar,Similar
+East of England region,Luton,2019 - 21,7.87379351625277,43.0,Similar,Similar
+East of England region,Southend-on-Sea,2019 - 21,12.071182746578,58.0,Similar,Similar
+East of England region,Thurrock,2019 - 21,5.38376720624593,26.0,Better,Better
+South East region,Medway,2019 - 21,10.6271736212445,76.0,Similar,Similar
+South East region,Bracknell Forest,2019 - 21,8.38752936486003,28.0,Similar,Similar
+South East region,West Berkshire,2019 - 21,11.8899700492946,48.0,Similar,Similar
+South East region,Reading,2019 - 21,11.9980583346966,49.0,Similar,Similar
+South East region,Slough,2019 - 21,8.72842755526827,31.0,Similar,Similar
+South East region,Windsor and Maidenhead,2019 - 21,8.18684876419807,31.0,Similar,Similar
+South East region,Wokingham,2019 - 21,6.00214724361831,26.0,Better,Better
+South East region,Milton Keynes,2019 - 21,12.8819173705996,91.0,Similar,Similar
+South East region,Brighton and Hove,2019 - 21,14.0916103380936,113.0,Worse,Worse
+South East region,Portsmouth,2019 - 21,9.9270317483726,56.0,Similar,Similar
+South East region,Southampton,2019 - 21,9.53441316398193,63.0,Similar,Similar
+South East region,Isle of Wight,2019 - 21,13.7825086971505,48.0,Similar,Similar
+North East region,County Durham,2019 - 21,15.7877443250994,217.0,Worse,Worse
+North West region,Cheshire East,2019 - 21,10.0771438645863,100.0,Similar,Similar
+North West region,Cheshire West and Chester,2019 - 21,10.8205773758248,100.0,Similar,Similar
+West Midlands region,Shropshire,2019 - 21,11.5537394375842,99.0,Similar,Similar
+South West region,Cornwall,2019 - 21,13.4906140312289,204.0,Worse,Similar
+South West region,Isles of Scilly,2019 - 21,,,Not compared,Not compared
+South West region,Wiltshire,2019 - 21,11.5329576819854,150.0,Similar,Similar
+East of England region,Bedford,2019 - 21,11.744459314057,52.0,Similar,Similar
+East of England region,Central Bedfordshire,2019 - 21,7.571147949798,56.0,Better,Similar
+North East region,Northumberland,2019 - 21,11.4532057621346,95.0,Similar,Similar
+South West region,"Bournemouth, Christchurch and Poole",2019 - 21,12.6837233304885,133.0,Worse,Similar
+South West region,Dorset,2019 - 21,12.4141155889101,119.0,Similar,Similar
+South East region,Buckinghamshire UA,2019 - 21,10.9838602522552,157.0,Similar,Similar
+East Midlands region,North Northamptonshire,2019 - 21,10.7973087026598,96.0,Similar,Similar
+East Midlands region,West Northamptonshire,2019 - 21,9.45695065136352,100.0,Similar,Similar
+North West region,Bolton,2019 - 21,9.79945932006151,72.0,Similar,Similar
+North West region,Bury,2019 - 21,11.9682320180742,59.0,Similar,Similar
+North West region,Manchester,2019 - 21,10.8254961063205,154.0,Similar,Similar
+North West region,Oldham,2019 - 21,9.02299288757846,55.0,Similar,Similar
+North West region,Rochdale,2019 - 21,10.5259566754717,60.0,Similar,Similar
+North West region,Salford,2019 - 21,12.3194811649314,84.0,Similar,Similar
+North West region,Stockport,2019 - 21,8.14346085033552,63.0,Better,Better
+North West region,Tameside,2019 - 21,7.1593574786789,42.0,Better,Better
+North West region,Trafford,2019 - 21,9.2535336333999,56.0,Similar,Similar
+North West region,Wigan,2019 - 21,12.4117034233651,106.0,Similar,Similar
+North West region,Knowsley,2019 - 21,10.0023149311858,39.0,Similar,Similar
+North West region,Liverpool,2019 - 21,10.9726415171842,143.0,Similar,Similar
+North West region,St. Helens,2019 - 21,14.0051582022861,66.0,Worse,Similar
+North West region,Sefton,2019 - 21,9.99954855629395,71.0,Similar,Similar
+North West region,Wirral,2019 - 21,11.3975673398108,93.0,Similar,Similar
+Yorkshire and the Humber region,Barnsley,2019 - 21,14.7614902192469,96.0,Worse,Similar
+Yorkshire and the Humber region,Doncaster,2019 - 21,14.9778503241466,122.0,Worse,Similar
+Yorkshire and the Humber region,Rotherham,2019 - 21,13.2196516922365,89.0,Worse,Similar
+Yorkshire and the Humber region,Sheffield,2019 - 21,11.0464525123713,168.0,Similar,Similar
+North East region,Newcastle upon Tyne,2019 - 21,11.5548120836048,85.0,Similar,Similar
+North East region,North Tyneside,2019 - 21,10.9645268659157,59.0,Similar,Similar
+North East region,South Tyneside,2019 - 21,7.71872494038458,32.0,Similar,Better
+North East region,Sunderland,2019 - 21,14.2005875975951,103.0,Worse,Similar
+West Midlands region,Birmingham,2019 - 21,8.69176251727355,243.0,Better,Better
+West Midlands region,Coventry,2019 - 21,9.25280979305268,89.0,Similar,Similar
+West Midlands region,Dudley,2019 - 21,10.305500311074,86.0,Similar,Similar
+West Midlands region,Sandwell,2019 - 21,11.1577758420832,93.0,Similar,Similar
+West Midlands region,Solihull,2019 - 21,10.301321535337,59.0,Similar,Similar
+West Midlands region,Walsall,2019 - 21,9.04920356897475,65.0,Similar,Similar
+West Midlands region,Wolverhampton,2019 - 21,7.92063104174397,53.0,Better,Better
+Yorkshire and the Humber region,Bradford,2019 - 21,9.82998726043299,132.0,Similar,Better
+Yorkshire and the Humber region,Calderdale,2019 - 21,16.9063761466857,94.0,Worse,Worse
+Yorkshire and the Humber region,Kirklees,2019 - 21,11.2075023837234,127.0,Similar,Similar
+Yorkshire and the Humber region,Leeds,2019 - 21,13.8634862211004,281.0,Worse,Similar
+Yorkshire and the Humber region,Wakefield,2019 - 21,17.3148893664711,159.0,Worse,Worse
+North East region,Gateshead,2019 - 21,9.58602396418345,51.0,Similar,Better
+London region,City of London,2019 - 21,,3.0,Not compared,Not compared
+London region,Barking and Dagenham,2019 - 21,8.81630761602811,44.0,Similar,Similar
+London region,Barnet,2019 - 21,4.7682702575573,50.0,Better,Better
+London region,Bexley,2019 - 21,7.22530420878012,47.0,Better,Similar
+London region,Brent,2019 - 21,5.26452619498812,47.0,Better,Better
+London region,Bromley,2019 - 21,5.13669185423053,43.0,Better,Better
+London region,Camden,2019 - 21,8.89787050722334,55.0,Similar,Similar
+London region,Croydon,2019 - 21,6.21614563977185,62.0,Better,Similar
+London region,Ealing,2019 - 21,9.78485483593144,83.0,Similar,Worse
+London region,Enfield,2019 - 21,5.30838904680476,44.0,Better,Better
+London region,Greenwich,2019 - 21,6.83792029192535,47.0,Better,Similar
+London region,Hackney,2019 - 21,8.59745690432151,56.0,Similar,Similar
+London region,Hammersmith and Fulham,2019 - 21,12.9122748992518,70.0,Similar,Worse
+London region,Haringey,2019 - 21,7.24060098674667,50.0,Better,Similar
+London region,Harrow,2019 - 21,5.37467391304082,34.0,Better,Similar
+London region,Havering,2019 - 21,8.44726534102315,57.0,Similar,Similar
+London region,Hillingdon,2019 - 21,8.82920836473241,70.0,Similar,Similar
+London region,Hounslow,2019 - 21,8.84216534748439,63.0,Similar,Similar
+London region,Islington,2019 - 21,7.85897970091733,41.0,Similar,Similar
+London region,Kensington and Chelsea,2019 - 21,10.238240016221,43.0,Similar,Worse
+London region,Kingston upon Thames,2019 - 21,7.898383341161,36.0,Similar,Similar
+London region,Lambeth,2019 - 21,5.66021503907758,45.0,Better,Similar
+London region,Lewisham,2019 - 21,8.33323816207768,62.0,Similar,Similar
+London region,Merton,2019 - 21,6.47971184974019,37.0,Better,Similar
+London region,Newham,2019 - 21,5.96318089843264,54.0,Better,Similar
+London region,Redbridge,2019 - 21,7.68050826574394,57.0,Better,Similar
+London region,Richmond upon Thames,2019 - 21,7.08396120409127,37.0,Better,Similar
+London region,Southwark,2019 - 21,9.015501957911,70.0,Similar,Similar
+London region,Sutton,2019 - 21,10.6037376280693,56.0,Similar,Worse
+London region,Tower Hamlets,2019 - 21,6.6255198466913,58.0,Better,Similar
+London region,Waltham Forest,2019 - 21,6.53554395015776,47.0,Better,Similar
+London region,Wandsworth,2019 - 21,7.45814876873603,60.0,Better,Similar
+London region,Westminster,2019 - 21,7.3886616061657,51.0,Better,Similar
+East of England region,Cambridgeshire,2019 - 21,10.3598621774182,180.0,Similar,Similar
+North West region,Cumbria,2019 - 21,15.5461997263798,199.0,Worse,Worse
+East Midlands region,Derbyshire,2019 - 21,11.5117148180362,244.0,Similar,Similar
+South West region,Devon,2019 - 21,12.4554557998714,263.0,Worse,Similar
+South East region,East Sussex,2019 - 21,12.1312203793453,179.0,Similar,Similar
+East of England region,Essex,2019 - 21,10.7418165410644,418.0,Similar,Similar
+South West region,Gloucestershire,2019 - 21,11.3058921817527,192.0,Similar,Similar
+South East region,Hampshire,2019 - 21,8.93620111214141,321.0,Better,Better
+East of England region,Hertfordshire,2019 - 21,7.70560999077166,238.0,Better,Better
+South East region,Kent,2019 - 21,11.6548788588421,479.0,Worse,Similar
+North West region,Lancashire,2019 - 21,13.4818001108043,425.0,Worse,Worse
+East Midlands region,Leicestershire,2019 - 21,8.69072810649886,164.0,Better,Better
+East Midlands region,Lincolnshire,2019 - 21,12.1011017946644,242.0,Worse,Worse
+East of England region,Norfolk,2019 - 21,10.580014334293,256.0,Similar,Similar
+Yorkshire and the Humber region,North Yorkshire,2019 - 21,11.3438800849216,183.0,Similar,Similar
+East Midlands region,Nottinghamshire,2019 - 21,10.2888737964297,226.0,Similar,Similar
+South East region,Oxfordshire,2019 - 21,10.0324773658941,181.0,Similar,Similar
+South West region,Somerset,2019 - 21,15.0541649382869,219.0,Worse,Worse
+West Midlands region,Staffordshire,2019 - 21,11.910168602373,277.0,Worse,Similar
+East of England region,Suffolk,2019 - 21,10.3875050709301,208.0,Similar,Similar
+South East region,Surrey,2019 - 21,10.0968174654603,316.0,Similar,Similar
+West Midlands region,Warwickshire,2019 - 21,11.2150520169177,172.0,Similar,Similar
+South East region,West Sussex,2019 - 21,11.5333120198493,265.0,Similar,Similar
+West Midlands region,Worcestershire,2019 - 21,12.0157921156481,186.0,Similar,Similar
