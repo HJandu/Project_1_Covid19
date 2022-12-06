@@ -15,7 +15,6 @@ Yorkshire and the Humber region,North Lincolnshire,2017 - 19,11.8337249741676,53
 Yorkshire and the Humber region,York,2017 - 19,11.7661197762607,61.0,Similar,Similar
 East Midlands region,Derby,2017 - 19,7.95687599351732,53.0,Similar,Similar
 East Midlands region,Leicester,2017 - 19,8.05842826404862,71.0,Similar,Similar
-East Midlands region,Rutland,2017 - 19,,7.0,Not compared,Not compared
 East Midlands region,Nottingham,2017 - 19,12.7050063225687,99.0,Worse,Worse
 West Midlands region,Herefordshire,2017 - 19,10.5202129878348,53.0,Similar,Similar
 West Midlands region,Telford and Wrekin,2017 - 19,10.2210804737265,47.0,Similar,Similar
@@ -48,7 +47,6 @@ North West region,Cheshire East,2017 - 19,10.1788993397398,99.0,Similar,Similar
 North West region,Cheshire West and Chester,2017 - 19,8.41016504048488,77.0,Similar,Better
 West Midlands region,Shropshire,2017 - 19,9.94311331513638,84.0,Similar,Similar
 South West region,Cornwall,2017 - 19,12.708996152887,187.0,Worse,Similar
-South West region,Isles of Scilly,2017 - 19,,,Not compared,Not compared
 South West region,Wiltshire,2017 - 19,8.07285975556657,104.0,Better,Better
 East of England region,Bedford,2017 - 19,10.8535349251951,48.0,Similar,Similar
 East of England region,Central Bedfordshire,2017 - 19,7.91629165000486,59.0,Similar,Better
@@ -92,7 +90,6 @@ Yorkshire and the Humber region,Kirklees,2017 - 19,10.7670342608538,122.0,Simila
 Yorkshire and the Humber region,Leeds,2017 - 19,12.681133556927,261.0,Worse,Similar
 Yorkshire and the Humber region,Wakefield,2017 - 19,13.4637665223075,120.0,Worse,Similar
 North East region,Gateshead,2017 - 19,7.18439133348517,37.0,Better,Better
-London region,City of London,2017 - 19,,4.0,Not compared,Not compared
 London region,Barking and Dagenham,2017 - 19,6.06626537442725,32.0,Better,Similar
 London region,Barnet,2017 - 19,6.70762068024313,66.0,Better,Similar
 London region,Bexley,2017 - 19,8.924821796318,57.0,Similar,Similar

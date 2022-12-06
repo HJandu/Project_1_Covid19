@@ -105,7 +105,6 @@ Yorkshire and the Humber region,North Lincolnshire,Counties & UAs (from Apr 2021
 Yorkshire and the Humber region,York,Counties & UAs (from Apr 2021),Male,,2019 - 21,20.2098290846822,54.0,Similar,Similar
 East Midlands region,Derby,Counties & UAs (from Apr 2021),Male,,2019 - 21,15.1927145916803,49.0,Similar,Similar
 East Midlands region,Leicester,Counties & UAs (from Apr 2021),Male,,2019 - 21,17.4999534493067,72.0,Similar,Similar
-East Midlands region,Rutland,Counties & UAs (from Apr 2021),Male,,2019 - 21,,2.0,Not compared,Not compared
 East Midlands region,Nottingham,Counties & UAs (from Apr 2021),Male,,2019 - 21,17.1152075098336,72.0,Similar,Similar
 West Midlands region,Herefordshire,Counties & UAs (from Apr 2021),Male,,2019 - 21,19.1106874350015,48.0,Similar,Similar
 West Midlands region,Telford and Wrekin,Counties & UAs (from Apr 2021),Male,,2019 - 21,16.2387498200581,37.0,Similar,Similar
@@ -138,7 +137,6 @@ North West region,Cheshire East,Counties & UAs (from Apr 2021),Male,,2019 - 21,1
 North West region,Cheshire West and Chester,Counties & UAs (from Apr 2021),Male,,2019 - 21,17.8773128737062,80.0,Similar,Similar
 West Midlands region,Shropshire,Counties & UAs (from Apr 2021),Male,,2019 - 21,16.7181632330678,69.0,Similar,Similar
 South West region,Cornwall,Counties & UAs (from Apr 2021),Male,,2019 - 21,21.5328390871002,156.0,Worse,Similar
-South West region,Isles of Scilly,Counties & UAs (from Apr 2021),Male,,2019 - 21,,,Not compared,Not compared
 South West region,Wiltshire,Counties & UAs (from Apr 2021),Male,,2019 - 21,18.3060765705086,117.0,Similar,Similar
 East of England region,Bedford,Counties & UAs (from Apr 2021),Male,,2019 - 21,20.7658486681826,45.0,Similar,Worse
 East of England region,Central Bedfordshire,Counties & UAs (from Apr 2021),Male,,2019 - 21,11.5617263319726,41.0,Better,Similar
@@ -184,7 +182,6 @@ Yorkshire and the Humber region,Kirklees,Counties & UAs (from Apr 2021),Male,,20
 Yorkshire and the Humber region,Leeds,Counties & UAs (from Apr 2021),Male,,2019 - 21,19.2389740000607,191.0,Worse,Similar
 Yorkshire and the Humber region,Wakefield,Counties & UAs (from Apr 2021),Male,,2019 - 21,24.1031539943847,108.0,Worse,Worse
 North East region,Gateshead,Counties & UAs (from Apr 2021),Male,,2019 - 21,16.7293131655002,43.0,Similar,Similar
-London region,City of London,Counties & UAs (from Apr 2021),Male,,2019 - 21,,0.0,Not compared,Not compared
 London region,Barking and Dagenham,Counties & UAs (from Apr 2021),Male,,2019 - 21,14.6309732706396,32.0,Similar,Similar
 London region,Barnet,Counties & UAs (from Apr 2021),Male,,2019 - 21,7.01566700698165,37.0,Better,Better
 London region,Bexley,Counties & UAs (from Apr 2021),Male,,2019 - 21,11.7212030115688,36.0,Similar,Similar
@@ -241,23 +238,18 @@ South East region,Surrey,Counties & UAs (from Apr 2021),Male,,2019 - 21,15.14275
 West Midlands region,Warwickshire,Counties & UAs (from Apr 2021),Male,,2019 - 21,16.9189375607262,125.0,Similar,Similar
 South East region,West Sussex,Counties & UAs (from Apr 2021),Male,,2019 - 21,16.6124935997156,185.0,Similar,Similar
 West Midlands region,Worcestershire,Counties & UAs (from Apr 2021),Male,,2019 - 21,20.6868930137534,156.0,Worse,Worse
-North East region,Hartlepool,Counties & UAs (from Apr 2021),Female,,2019 - 21,,5.0,Not compared,Not compared
 North East region,Middlesbrough,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.83983074134874,12.0,Similar,Similar
 North East region,Redcar and Cleveland,Counties & UAs (from Apr 2021),Female,,2019 - 21,7.96838272814547,14.0,Similar,Similar
 North East region,Stockton-on-Tees,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.76474824962175,12.0,Similar,Similar
 North East region,Darlington,Counties & UAs (from Apr 2021),Female,,2019 - 21,10.8260114279003,16.0,Worse,Worse
 North West region,Halton,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.48125686562973,10.0,Similar,Similar
 North West region,Warrington,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.16728714342718,12.0,Similar,Similar
-North West region,Blackburn with Darwen,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 North West region,Blackpool,Counties & UAs (from Apr 2021),Female,,2019 - 21,9.74196259632817,18.0,Worse,Worse
 Yorkshire and the Humber region,Kingston upon Hull,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.56439254139979,19.0,Similar,Similar
 Yorkshire and the Humber region,East Riding of Yorkshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.76140029230515,26.0,Similar,Similar
-Yorkshire and the Humber region,North East Lincolnshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,,7.0,Not compared,Not compared
 Yorkshire and the Humber region,North Lincolnshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.63080262503106,11.0,Similar,Similar
 Yorkshire and the Humber region,York,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.28314494779614,18.0,Similar,Similar
-East Midlands region,Derby,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 East Midlands region,Leicester,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.79399856472931,18.0,Similar,Similar
-East Midlands region,Rutland,Counties & UAs (from Apr 2021),Female,,2019 - 21,,1.0,Not compared,Not compared
 East Midlands region,Nottingham,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.20430525703252,22.0,Similar,Similar
 West Midlands region,Herefordshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.24074585464606,16.0,Similar,Similar
 West Midlands region,Telford and Wrekin,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.92945197131111,16.0,Similar,Similar
@@ -270,29 +262,22 @@ South West region,Plymouth,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.58
 South West region,Torbay,Counties & UAs (from Apr 2021),Female,,2019 - 21,9.19853567112437,16.0,Similar,Similar
 South West region,Swindon,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.95248329880455,17.0,Similar,Similar
 East of England region,Peterborough,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.75607965329245,17.0,Similar,Similar
-East of England region,Luton,Counties & UAs (from Apr 2021),Female,,2019 - 21,,6.0,Not compared,Not compared
 East of England region,Southend-on-Sea,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.78914273050176,15.0,Similar,Similar
 East of England region,Thurrock,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.28773237920575,10.0,Similar,Similar
 South East region,Medway,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.32877307646009,15.0,Similar,Similar
-South East region,Bracknell Forest,Counties & UAs (from Apr 2021),Female,,2019 - 21,,5.0,Not compared,Not compared
 South East region,West Berkshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.64166563272701,11.0,Similar,Similar
 South East region,Reading,Counties & UAs (from Apr 2021),Female,,2019 - 21,7.0105469675561,14.0,Similar,Similar
 South East region,Slough,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.4670595855014,10.0,Similar,Similar
-South East region,Windsor and Maidenhead,Counties & UAs (from Apr 2021),Female,,2019 - 21,,7.0,Not compared,Not compared
-South East region,Wokingham,Counties & UAs (from Apr 2021),Female,,2019 - 21,,4.0,Not compared,Not compared
 South East region,Milton Keynes,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.45658480727807,18.0,Similar,Similar
 South East region,Brighton and Hove,Counties & UAs (from Apr 2021),Female,,2019 - 21,9.20507564943046,39.0,Worse,Worse
 South East region,Portsmouth,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.06164092033544,17.0,Similar,Similar
 South East region,Southampton,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.65719396431127,19.0,Similar,Similar
-South East region,Isle of Wight,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 North East region,County Durham,Counties & UAs (from Apr 2021),Female,,2019 - 21,7.68519013156938,54.0,Worse,Worse
 North West region,Cheshire East,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.75586663277917,20.0,Similar,Similar
 North West region,Cheshire West and Chester,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.36350656376617,20.0,Similar,Similar
 West Midlands region,Shropshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.24759524603967,30.0,Similar,Similar
 South West region,Cornwall,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.20568254253704,48.0,Similar,Similar
-South West region,Isles of Scilly,Counties & UAs (from Apr 2021),Female,,2019 - 21,,,Not compared,Not compared
 South West region,Wiltshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.71016615490045,33.0,Similar,Similar
-East of England region,Bedford,Counties & UAs (from Apr 2021),Female,,2019 - 21,,7.0,Not compared,Not compared
 East of England region,Central Bedfordshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.82861217829867,15.0,Similar,Similar
 North East region,Northumberland,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.98835437365939,17.0,Similar,Similar
 South West region,"Bournemouth, Christchurch and Poole",Counties & UAs (from Apr 2021),Female,,2019 - 21,6.36359434909529,34.0,Similar,Similar
@@ -307,10 +292,8 @@ North West region,Oldham,Counties & UAs (from Apr 2021),Female,,2019 - 21,7.7343
 North West region,Rochdale,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.46277306622061,10.0,Similar,Similar
 North West region,Salford,Counties & UAs (from Apr 2021),Female,,2019 - 21,7.69292022150947,27.0,Similar,Similar
 North West region,Stockport,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.46966013852276,14.0,Similar,Similar
-North West region,Tameside,Counties & UAs (from Apr 2021),Female,,2019 - 21,,8.0,Not compared,Not compared
 North West region,Trafford,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.54399306820042,17.0,Similar,Similar
 North West region,Wigan,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.53173718016844,28.0,Similar,Similar
-North West region,Knowsley,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 North West region,Liverpool,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.23374372903421,36.0,Similar,Similar
 North West region,St. Helens,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.69910473581386,11.0,Similar,Similar
 North West region,Sefton,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.55393044937961,17.0,Similar,Similar
@@ -321,7 +304,6 @@ Yorkshire and the Humber region,Rotherham,Counties & UAs (from Apr 2021),Female,
 Yorkshire and the Humber region,Sheffield,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.04201061443343,41.0,Similar,Similar
 North East region,Newcastle upon Tyne,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.69296723323194,20.0,Similar,Similar
 North East region,North Tyneside,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.14622046210047,14.0,Similar,Similar
-North East region,South Tyneside,Counties & UAs (from Apr 2021),Female,,2019 - 21,,2.0,Not compared,Not compared
 North East region,Sunderland,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.8214536552681,17.0,Similar,Similar
 West Midlands region,Birmingham,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.54214021379369,50.0,Better,Better
 West Midlands region,Coventry,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.25108102502867,18.0,Similar,Similar
@@ -335,8 +317,6 @@ Yorkshire and the Humber region,Calderdale,Counties & UAs (from Apr 2021),Female
 Yorkshire and the Humber region,Kirklees,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.13564820679522,29.0,Similar,Similar
 Yorkshire and the Humber region,Leeds,Counties & UAs (from Apr 2021),Female,,2019 - 21,8.80610382610971,90.0,Worse,Worse
 Yorkshire and the Humber region,Wakefield,Counties & UAs (from Apr 2021),Female,,2019 - 21,10.9071773630222,51.0,Worse,Worse
-North East region,Gateshead,Counties & UAs (from Apr 2021),Female,,2019 - 21,,8.0,Not compared,Not compared
-London region,City of London,Counties & UAs (from Apr 2021),Female,,2019 - 21,,3.0,Not compared,Not compared
 London region,Barking and Dagenham,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.6468655510802,12.0,Similar,Similar
 London region,Barnet,Counties & UAs (from Apr 2021),Female,,2019 - 21,2.51556524817436,13.0,Better,Similar
 London region,Bexley,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.25713628278436,11.0,Similar,Similar
@@ -345,7 +325,6 @@ London region,Bromley,Counties & UAs (from Apr 2021),Female,,2019 - 21,2.8721920
 London region,Camden,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.09410017034878,16.0,Similar,Similar
 London region,Croydon,Counties & UAs (from Apr 2021),Female,,2019 - 21,2.85422613908556,15.0,Better,Similar
 London region,Ealing,Counties & UAs (from Apr 2021),Female,,2019 - 21,2.86181103720334,12.0,Better,Similar
-London region,Enfield,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 London region,Greenwich,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.25302037799205,14.0,Similar,Similar
 London region,Hackney,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.79665484643176,19.0,Similar,Similar
 London region,Hammersmith and Fulham,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.71506718157525,17.0,Similar,Similar
@@ -359,14 +338,12 @@ London region,Kensington and Chelsea,Counties & UAs (from Apr 2021),Female,,2019
 London region,Kingston upon Thames,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.87130210399524,12.0,Similar,Similar
 London region,Lambeth,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.89981207627366,15.0,Similar,Similar
 London region,Lewisham,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.04791923997728,17.0,Similar,Similar
-London region,Merton,Counties & UAs (from Apr 2021),Female,,2019 - 21,,9.0,Not compared,Not compared
 London region,Newham,Counties & UAs (from Apr 2021),Female,,2019 - 21,2.18207855523122,10.0,Better,Similar
 London region,Redbridge,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.42889465716364,17.0,Similar,Similar
 London region,Richmond upon Thames,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.39664614396028,10.0,Similar,Similar
 London region,Southwark,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.74679222425579,14.0,Similar,Similar
 London region,Sutton,Counties & UAs (from Apr 2021),Female,,2019 - 21,6.62901173940661,18.0,Similar,Worse
 London region,Tower Hamlets,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.1921786004758,13.0,Similar,Similar
-London region,Waltham Forest,Counties & UAs (from Apr 2021),Female,,2019 - 21,,8.0,Not compared,Not compared
 London region,Wandsworth,Counties & UAs (from Apr 2021),Female,,2019 - 21,3.25816437663936,15.0,Similar,Similar
 London region,Westminster,Counties & UAs (from Apr 2021),Female,,2019 - 21,4.32851533954369,14.0,Similar,Similar
 East of England region,Cambridgeshire,Counties & UAs (from Apr 2021),Female,,2019 - 21,5.84507685337071,51.0,Similar,Similar
@@ -409,7 +386,6 @@ Yorkshire and the Humber region,North Lincolnshire,Counties & UAs (from Apr 2021
 Yorkshire and the Humber region,York,Counties & UAs (from Apr 2021),Persons,,2019 - 21,13.2600249958443,72.0,Similar,Similar
 East Midlands region,Derby,Counties & UAs (from Apr 2021),Persons,,2019 - 21,8.84333116265376,58.0,Similar,Similar
 East Midlands region,Leicester,Counties & UAs (from Apr 2021),Persons,,2019 - 21,10.6242339030808,90.0,Similar,Similar
-East Midlands region,Rutland,Counties & UAs (from Apr 2021),Persons,,2019 - 21,,3.0,Not compared,Not compared
 East Midlands region,Nottingham,Counties & UAs (from Apr 2021),Persons,,2019 - 21,11.2168296507233,94.0,Similar,Similar
 West Midlands region,Herefordshire,Counties & UAs (from Apr 2021),Persons,,2019 - 21,12.5804209344625,64.0,Similar,Similar
 West Midlands region,Telford and Wrekin,Counties & UAs (from Apr 2021),Persons,,2019 - 21,11.4286133603943,53.0,Similar,Similar
@@ -442,7 +418,6 @@ North West region,Cheshire East,Counties & UAs (from Apr 2021),Persons,,2019 - 2
 North West region,Cheshire West and Chester,Counties & UAs (from Apr 2021),Persons,,2019 - 21,10.8205773758248,100.0,Similar,Similar
 West Midlands region,Shropshire,Counties & UAs (from Apr 2021),Persons,,2019 - 21,11.5537394375842,99.0,Similar,Similar
 South West region,Cornwall,Counties & UAs (from Apr 2021),Persons,,2019 - 21,13.4906140312289,204.0,Worse,Similar
-South West region,Isles of Scilly,Counties & UAs (from Apr 2021),Persons,,2019 - 21,,,Not compared,Not compared
 South West region,Wiltshire,Counties & UAs (from Apr 2021),Persons,,2019 - 21,11.5329576819854,150.0,Similar,Similar
 East of England region,Bedford,Counties & UAs (from Apr 2021),Persons,,2019 - 21,11.744459314057,52.0,Similar,Similar
 East of England region,Central Bedfordshire,Counties & UAs (from Apr 2021),Persons,,2019 - 21,7.571147949798,56.0,Better,Similar
@@ -488,7 +463,6 @@ Yorkshire and the Humber region,Kirklees,Counties & UAs (from Apr 2021),Persons,
 Yorkshire and the Humber region,Leeds,Counties & UAs (from Apr 2021),Persons,,2019 - 21,13.8634862211004,281.0,Worse,Similar
 Yorkshire and the Humber region,Wakefield,Counties & UAs (from Apr 2021),Persons,,2019 - 21,17.3148893664711,159.0,Worse,Worse
 North East region,Gateshead,Counties & UAs (from Apr 2021),Persons,,2019 - 21,9.58602396418345,51.0,Similar,Better
-London region,City of London,Counties & UAs (from Apr 2021),Persons,,2019 - 21,,3.0,Not compared,Not compared
 London region,Barking and Dagenham,Counties & UAs (from Apr 2021),Persons,,2019 - 21,8.81630761602811,44.0,Similar,Similar
 London region,Barnet,Counties & UAs (from Apr 2021),Persons,,2019 - 21,4.7682702575573,50.0,Better,Better
 London region,Bexley,Counties & UAs (from Apr 2021),Persons,,2019 - 21,7.22530420878012,47.0,Better,Similar
