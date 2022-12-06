@@ -1,0 +1,15 @@
+City_ID,Parent Name,Area Name,Time period,Value,Count,Compared to England value or percentiles,Compared to Region value or percentiles,Lat,Lan
+0,West Midlands region,Herefordshire,2019 - 21,12.58042093,64,Similar,Similar,52.0765,-2.6544
+1,West Midlands region,Telford and Wrekin,2019 - 21,11.42861336,53,Similar,Similar,52.741,-2.4869
+2,West Midlands region,Stoke-on-Trent,2019 - 21,16.38945651,106,Worse,Worse,53.0033,-2.1827
+3,West Midlands region,Shropshire,2019 - 21,11.55373944,99,Similar,Similar,52.7064,-2.7418
+4,West Midlands region,Birmingham,2019 - 21,8.691762517,243,Better,Better,52.4862,-1.8904
+5,West Midlands region,Coventry,2019 - 21,9.252809793,89,Similar,Similar,52.4128,-1.509
+6,West Midlands region,Dudley,2019 - 21,10.30550031,86,Similar,Similar,52.5123,-2.0811
+7,West Midlands region,Sandwell,2019 - 21,11.15777584,93,Similar,Similar,52.5362,-2.0108
+8,West Midlands region,Solihull,2019 - 21,10.30132154,59,Similar,Similar,52.4118,-1.7776
+9,West Midlands region,Walsall,2019 - 21,9.049203569,65,Similar,Similar,52.5862,-1.9829
+10,West Midlands region,Wolverhampton,2019 - 21,7.920631042,53,Better,Better,52.5868,-2.1257
+11,West Midlands region,Staffordshire,2019 - 21,11.9101686,277,Worse,Similar,52.8067,-2.1207
+12,West Midlands region,Warwickshire,2019 - 21,11.21505202,172,Similar,Similar,52.2671,-1.4675
+13,West Midlands region,Worcestershire,2019 - 21,12.01579212,186,Similar,Similar,52.2545,-2.2668
