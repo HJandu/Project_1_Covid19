@@ -62,7 +62,7 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 * import requests
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
-[Siobhan Brindley](https://github.com/SBrindley)
-[Hardip Jandu](https://github.com/HJandu)
-[James Hands](https://github.com/JamesHands18)
-[Gussie Poole](https://github.com/gussiepoole)
+[Siobhan Brindley](https://github.com/SBrindley),
+[Hardip Jandu](https://github.com/HJandu),
+[James Hands](https://github.com/JamesHands18),
+[Gussie Poole](https://github.com/gussiepoole),
