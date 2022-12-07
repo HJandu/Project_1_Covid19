@@ -42,21 +42,27 @@ Hypothesis - A positive correlation between further 'x' laitidue suicide rates
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
 
-import pandas as pd
-import matplotlib.pyplot as plt/mpl
-import numpy as np
-import scipy.stats as st
-%matplotlib inline
-import seaborn as sns
 
+* jupyter notebook `pip install notebook`
+* pandas `pip install pandas`
+* seaborn `pip install seaborn`
+* matplotlib `pip install matplotlib`
+* scipy `pip install scipy`
+
+- import pandas as pd
+- import matplotlib.pyplot as plt/mpl
+- import numpy as np
+- import scipy.stats as st
+- %matplotlib inline
+- import seaborn as sns
 
 For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required, inlcuidng an API key
 
-from api_key import geo_key
-import requests
+* from api_key import geo_key
+* import requests
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
-*[Siobhan Brindley](https://github.com/SBrindley)
-*[Hardip Jandu](https://github.com/HJandu)
-*[James Hands](https://github.com/JamesHands18)
-*[Gussie Poole](https://github.com/gussiepoole)
+[Siobhan Brindley](https://github.com/SBrindley)
+[Hardip Jandu](https://github.com/HJandu)
+[James Hands](https://github.com/JamesHands18)
+[Gussie Poole](https://github.com/gussiepoole)
