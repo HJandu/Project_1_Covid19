@@ -26,7 +26,7 @@ The are two main CSV files we used for our data and analysis:
 * DuringCovid.csv
 
 
-**Data Limitations**\
+**Data Limitations**
 
 Although our investigation was very interesting, and the plots we made from our findings were **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that certain covid specific conditions may influence the reliability of our data 
 
@@ -41,6 +41,19 @@ Hypothesis - A positive correlation between further 'x' laitidue suicide rates
 
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
+
+import pandas as pd
+import matplotlib.pyplot as plt/mpl
+import numpy as np
+import scipy.stats as st
+%matplotlib inline
+import seaborn as sns
+
+
+For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required, inlcuidng an API key
+
+from api_key import geo_key
+import requests
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 *[Siobhan Brindley](https://github.com/SBrindley)
