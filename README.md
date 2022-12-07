@@ -33,9 +33,11 @@ Although our investigation was very interesting, and the plots we made from our 
 ## <a id="project-header"></a>Project Outline
 
 
-Hypothesis - A positive correlation between further 'x' laitidue suicide rates 
+Hypothesis - A positive correlation between higher laitidue increased suicide rates 
 
+The p value indicated that our hypothesis was correct and that the greater the latitide 
 
+our linear regression analysis showed that the further north the greater the suicide rates
 
 ## <a id="reports-header"></a>Presentation and Findings
 
@@ -49,12 +51,12 @@ Hypothesis - A positive correlation between further 'x' laitidue suicide rates
 * matplotlib `pip install matplotlib`
 * scipy `pip install scipy`
 
-- import pandas as pd
-- import matplotlib.pyplot as plt/mpl
-- import numpy as np
+- import **pandas** as **pd**
+- import **matplotlib.pyplot** as **plt/mpl**
+- import **numpy** as **np**
 - import scipy.stats as st
-- %matplotlib inline
-- import seaborn as sns
+- **%matplotlib** inline
+- import **seaborn** as **sns**
 
 For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required, inlcuidng an API key
 
