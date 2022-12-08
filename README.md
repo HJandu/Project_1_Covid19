@@ -86,7 +86,7 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 - **PowerPoint Presentation** - Project 1 Presentation.pptx
 - The 'Output' Folder encloses the png images of our visualisations
 
-## <a id="team-header"></a>Credits / Collaborators / Team
+## <a id="team-header"></a> Team
 [Siobhan Brindley](https://github.com/SBrindley),
 [Hardip Jandu](https://github.com/HJandu),
 [James Hands](https://github.com/JamesHands18),
