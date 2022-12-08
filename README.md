@@ -1,6 +1,8 @@
 # The impact of Covid-19 on suicide rate in the UK
 
-<p align="center">! [NHS-mental-health-plan-expansion-834845](https://user-images.githubusercontent.com/115706722/206465147-9fd6dd11-4b40-4e9e-bc3c-3ef5baa3daf3.jpg)</p>
+<p align="center">
+  ![NHS-mental-health-plan-expansion-834845](https://user-images.githubusercontent.com/115706722/206465147-9fd6dd11-4b40-4e9e-bc3c-3ef5baa3daf3.jpg)
+</p>
 
 
 This is a team project that explored government datasets on suicide rates, comparing pre-pandemic and pandemic years.
