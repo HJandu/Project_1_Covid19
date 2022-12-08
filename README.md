@@ -68,7 +68,7 @@ Deprivation Analysis
   
   
 
-More detaild analysis may be found in the PowerPoint Presentation
+More detailed analysis may be found in the PowerPoint Presentation
 
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
