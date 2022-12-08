@@ -64,9 +64,8 @@ Regional Analysis
  
 
 Deprivation Analysis 
-- The most deprived area had a drastic drop in suicide rate and the upper deciles had a sharp increase in suicide rates ***
-  
-  
+- The most deprived area had a drastic drop in suicide rate and the upper deciles had a sharp increase in suicide rates
+
 
 More detailed analysis may be found in the PowerPoint Presentation
 
