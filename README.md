@@ -64,8 +64,7 @@ Regional Analysis
 -Our analysis showed that the proposed **hypothesis** was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
  
 
-Deprivation Analysis 
-- The most deprived area had a drastic drop in suicide rate and the upper deciles had a sharp increase in suicide rates
+Deprivation Analysis - The most deprived area had a drastic drop in suicide rate and the upper deciles had a sharp increase in suicide rates
 
 
 More detailed analysis may be found in the PowerPoint Presentation
