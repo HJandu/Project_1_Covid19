@@ -39,7 +39,7 @@ Our target questions:
 * Was there a regional difference in suicide rates before and during Covid?
 * Was the gender split of suicide rates affected by Covid?
 * How did suicide rates change during covid in the West Midlands?
-* **Hypothesis** - A positive correlation between higher laitidue and suicide rates
+* **Hypothesis** - A positive correlation between latitude and suicide rate
 
 For each target question and hypothesis, we created a number of visualisations to display the data in a more understandable format and to help us analyse the information further
 
