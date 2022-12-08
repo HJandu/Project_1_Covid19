@@ -15,7 +15,7 @@ This is a team project that explored government datasets on suicide rates, compa
 * [File Guide](#file-header)
 * [Team](#team-header)
 
-<p align="center">![Suicide-prevention-week-awareness-web-824x549](https://user-images.githubusercontent.com/115706722/204639240-5241e6f1-d1eb-4871-bd40-3f665ee2e37f.jpg)
+![Suicide-prevention-week-awareness-web-824x549](https://user-images.githubusercontent.com/115706722/204639240-5241e6f1-d1eb-4871-bd40-3f665ee2e37f.jpg)
 
 ## <a id="dataset-header"></a>Dataset
 The dataset for this project is from [the government health data website](https://fingertips.phe.org.uk/profile-group/mental-health/profile/suicide/data#page/9/gid/1938132828/pat/6/par/E12000001/ati/402/are/E08000024/iid/41001/age/285/sex/4/cat/-1/ctp/-1/yrr/3/cid/4/tbm/1/page-options/car-do-0) 
