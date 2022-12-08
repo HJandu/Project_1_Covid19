@@ -79,11 +79,11 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 - **Filtered pre-covid CSV files for each category for analysis **(r=region, g=gender, a=area, w=deprivation) - PreCovid_a.csv, PreCovid_g.csv, PreCovid_r.csv, PreCovid_w.csv
 -  **Filtered during-covid CSV files for each category for analysis** (r=region, g=gender, a=area, w=deprivation) - DuringCovid_a.csv, DuringCovid_g.csv, DuringCovid_r.csv, DuringCovid_w.csv
 - **Analysis by Gender** - 'Gender' - Comparison stacks.ipynb
--** Data for regions** - West Midlands - west_midlands_pre.csv, west_midlands_during.csv, indicators-CountiesUAsfromApr2021.data.csv
+- ** Data for regions** - West Midlands - west_midlands_pre.csv, west_midlands_during.csv, indicators-CountiesUAsfromApr2021.data.csv
 - **Analysis by region** - AreasAPI.ipynb, Data by region.ipynb, region_anova_hypo.ipynb
--** Analysis by region** - West Midlands - County -WestMidlands.ipynb, West midlands During-Covid map.ipynb
--** Analysis by deprivation** - 'Deprivation' - WealthBased.ipynb
-- PowerPoint Presentation - Project 1 Presentation.pptx
+- ** Analysis by region** - West Midlands - County -WestMidlands.ipynb, West midlands During-Covid map.ipynb
+- ** Analysis by deprivation** - 'Deprivation' - WealthBased.ipynb
+- **PowerPoint Presentation** - Project 1 Presentation.pptx
 - The 'Output' Folder encloses the png images of our visualisations
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
