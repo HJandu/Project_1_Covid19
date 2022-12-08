@@ -61,7 +61,7 @@ Regional Analysis
  
 - The only regions to have a decline in suicide rate were the East of England and London. All other regions saw a rise in suicide rate during the pandemic.
   
-Our analysis showed that the proposed **hypothesis** was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
+- Our analysis showed that the proposed **hypothesis** was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
  
 
 Deprivation Analysis 
