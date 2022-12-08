@@ -76,8 +76,8 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
   
 - **Initial file for cleaning and processing dat** - 'Cleaning' - Cleaning.ipynb
 - **Clean CSV files ready for analysis** - PreCovid.csv, DuringCovid.csv
-- **Filtered pre-covid CSV files for each category for analysis **(r=region, g=gender, a=area, w=deprivation) - PreCovid_a.csv, PreCovid_g.csv, PreCovid_r.csv, PreCovid_w.csv
--  **Filtered during-covid CSV files for each category for analysis** (r=region, g=gender, a=area, w=deprivation) - DuringCovid_a.csv, DuringCovid_g.csv, DuringCovid_r.csv, DuringCovid_w.csv
+- **Filtered pre-covid CSV files for each category for analysis** (r=region, g=gender, a=area, w=deprivation) - PreCovid_a.csv, PreCovid_g.csv, PreCovid_r.csv, PreCovid_w.csv
+- **Filtered during-covid CSV files for each category for analysis** (r=region, g=gender, a=area, w=deprivation) - DuringCovid_a.csv, DuringCovid_g.csv, DuringCovid_r.csv, DuringCovid_w.csv
 - **Analysis by Gender** - 'Gender' - Comparison stacks.ipynb
 - **Data for regions** - West Midlands - west_midlands_pre.csv, west_midlands_during.csv, indicators-CountiesUAsfromApr2021.data.csv
 - **Analysis by region** - AreasAPI.ipynb, Data by region.ipynb, region_anova_hypo.ipynb
