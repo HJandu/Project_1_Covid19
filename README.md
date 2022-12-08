@@ -11,9 +11,7 @@ This is a team project that explored government datasets on suicide rates, compa
 * [Project Outline](#project-header)
 * [Findings Reports and Presentation](#reports-header)
 * [Dependencies and Setup Required](#dependencies-header)
-* [How to View / Run the code](#how-header)
 * [File Guide](#file-header)
-* [Repository Structure](#structure-header)
 * [Team](#team-header)
 
 ![Suicide-prevention-week-awareness-web-824x549](https://user-images.githubusercontent.com/115706722/204639240-5241e6f1-d1eb-4871-bd40-3f665ee2e37f.jpg)
@@ -28,7 +26,7 @@ The are two main CSV files we used for our data and analysis:
 * DuringCovid.csv
 
 
-## <a id="limitations-header"><Data Limitations
+## <a id="limitations-header">Data Limitations
 Although our investigation was very interesting, and the plots we made from our findings were **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that although the data used in this project was sourced from the official government website, data gathered during covid cannot be used with absolute certainity of reliability.
 
 ## <a id="project-header"></a>Project Outline
@@ -75,6 +73,7 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 * import requests
 
 <a id="file-header"></a>**File Guide**
+  
 - **Initial file for cleaning and processing dat** - 'Cleaning' - Cleaning.ipynb
 - **Clean CSV files ready for analysis** - PreCovid.csv, DuringCovid.csv
 - **Filtered pre-covid CSV files for each category for analysis **(r=region, g=gender, a=area, w=deprivation) - PreCovid_a.csv, PreCovid_g.csv, PreCovid_r.csv, PreCovid_w.csv
