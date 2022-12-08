@@ -28,18 +28,29 @@ The are two main CSV files we used for our data and analysis:
 
 **Data Limitations**
 
-Although our investigation was very interesting, and the plots we made from our findings were **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that certain covid specific conditions may influence the reliability of our data 
+Although our investigation was very interesting, and the plots we made from our findings were **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that although the data used in this project was sourced from the official government website, data gathered during covid cannot be used with absolute certainity of reliability.
 
 ## <a id="project-header"></a>Project Outline
 
+We decided to investigate the affect of the pandemic on mental health. Our analytical focus was on the suicide rate before and during covid. 
 
-Hypothesis - A positive correlation between higher laitidue increased suicide rates 
+Our target questions:
+* Is there a link between sucide rate and an area's level of deprivation during Covid?
+* Was there a regional difference in suicide rates before and during Covid?
+* Was the gender split of suicide rates affected by Covid?
+* How did suicide rates change during covid in the West Midlands?
+**Hypothesis - A positive correlation between higher laitidue and suicide rates **
 
-The p value indicated that our hypothesis was correct and that the greater the latitide 
+For each target question and hypothesis, we created a number of visualisations to display the data in a more understandable format and to help us analyse the information further
 
-our linear regression analysis showed that the further north the greater the suicide rates
+We used visulations such as grouped bar charts, pie charts, APIs and box plots to help analyse the data for our target questions. 
+
 
 ## <a id="reports-header"></a>Presentation and Findings
+
+[The powerpoint presentation for this project]:()
+
+Our analysis showed that the proposed hypothesis was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
 
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
