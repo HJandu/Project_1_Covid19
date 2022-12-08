@@ -7,12 +7,12 @@ This is a team project that explored government datasets on suicide rates, compa
 ## Contents
 
 * [Dataset](#dataset-header)
+* [Limitations](#limitations-header)
 * [Project Outline](#project-header)
-* [Example Plots](#example-header)
 * [Findings Reports and Presentation](#reports-header)
 * [Dependencies and Setup Required](#dependencies-header)
 * [How to View / Run the code](#how-header)
-* [Jupyter Notebooks File Guide](#which-header)
+* [File Guide](#file-header)
 * [Repository Structure](#structure-header)
 * [Team](#team-header)
 
@@ -28,8 +28,7 @@ The are two main CSV files we used for our data and analysis:
 * DuringCovid.csv
 
 
-**Data Limitations**
-
+## <a id="limitations-header"><Data Limitations
 Although our investigation was very interesting, and the plots we made from our findings were **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that although the data used in this project was sourced from the official government website, data gathered during covid cannot be used with absolute certainity of reliability.
 
 ## <a id="project-header"></a>Project Outline
@@ -50,13 +49,12 @@ We used visulations such as grouped bar charts, pie charts, APIs and box plots t
 
 ## <a id="reports-header"></a>Presentation and Findings
 
-[The powerpoint presentation for this project]:()
+[The powerpoint presentation for this project]:(https://github.com/HJandu/Project_Group_2/blob/main/Project%201%20Presentation.pptx_)
 
 Our analysis showed that the proposed hypothesis was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
 
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
-
 
 * jupyter notebook `pip install notebook`
 * pandas `pip install pandas`
@@ -75,6 +73,19 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 
 * from api_key import geo_key
 * import requests
+
+<a id="file-header"></a>**File Guide**
+- **Initial file for cleaning and processing dat** - 'Cleaning' - Cleaning.ipynb
+- **Clean CSV files ready for analysis** - PreCovid.csv, DuringCovid.csv
+- **Filtered pre-covid CSV files for each category for analysis **(r=region, g=gender, a=area, w=deprivation) - PreCovid_a.csv, PreCovid_g.csv, PreCovid_r.csv, PreCovid_w.csv
+-  **Filtered during-covid CSV files for each category for analysis** (r=region, g=gender, a=area, w=deprivation) - DuringCovid_a.csv, DuringCovid_g.csv, DuringCovid_r.csv, DuringCovid_w.csv
+- **Analysis by Gender** - 'Gender' - Comparison stacks.ipynb
+-** Data for regions** - West Midlands - west_midlands_pre.csv, west_midlands_during.csv, indicators-CountiesUAsfromApr2021.data.csv
+- **Analysis by region** - AreasAPI.ipynb, Data by region.ipynb, region_anova_hypo.ipynb
+-** Analysis by region** - West Midlands - County -WestMidlands.ipynb, West midlands During-Covid map.ipynb
+-** Analysis by deprivation** - 'Deprivation' - WealthBased.ipynb
+- PowerPoint Presentation - Project 1 Presentation.pptx
+- The 'Output' Folder encloses the png images of our visualisations
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 [Siobhan Brindley](https://github.com/SBrindley),
