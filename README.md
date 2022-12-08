@@ -72,7 +72,7 @@ For the 'AreasAPI.ipynb' analysis, the additional dependencies will be required,
 * from api_key import geo_key
 * import requests
 
-<a id="file-header"></a>**File Guide**
+## <a id="file-header"></a>**File Guide**
   
 - **Initial file for cleaning and processing dat** - 'Cleaning' - Cleaning.ipynb
 - **Clean CSV files ready for analysis** - PreCovid.csv, DuringCovid.csv
