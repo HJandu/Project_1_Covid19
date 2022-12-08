@@ -49,7 +49,26 @@ We used visulations such as grouped bar charts, pie charts, APIs and box plots t
 
 [The powerpoint presentation for this project]:(https://github.com/HJandu/Project_Group_2/blob/main/Project%201%20Presentation.pptx_)
 
-Our analysis showed that the proposed hypothesis was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
+
+  
+Gender Analysis
+-The percentage increase for suicide rate was greater for women (6.94%) than men (3.64%) *** covid.
+-The gender split for suicide statistics is still overwhelmingly male, 
+however during Covid was more in favour of the female gender.
+-The split over the regions follows the same pattern as 
+ 
+Regional Analysis
+-The only regions to have a decline in suicide rate were the East of England and London. All other regions saw a rise in suicide rate during the pandemic.
+  
+-Our analysis showed that the proposed **hypothesis** was true, the p value we calculated indicated that there was a positive correlation between latitude and suicide rate during Covid.
+ 
+
+Deprivation Analysis 
+- The most deprived area had a drastic drop in suicide rate and the upper deciles had a sharp increase in suicide rates ***
+  
+  
+
+More detaild analysis may be found in the PowerPoint Presentation
 
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
