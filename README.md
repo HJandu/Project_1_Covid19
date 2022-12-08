@@ -82,7 +82,7 @@ More detailed analysis may be found in the PowerPoint Presentation
 - import **pandas** as **pd**
 - import **matplotlib.pyplot** as **plt/mpl**
 - import **numpy** as **np**
-- import scipy.stats as st
+- import **scipy.stats as st**
 - **%matplotlib** inline
 - import **seaborn** as **sns**
 
